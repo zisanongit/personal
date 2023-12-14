@@ -8,6 +8,12 @@ http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDIX" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="LIVE EVENT", LIVE BDIX EVENT
 http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDIX" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="LIVE EVENT", LIVE BDIX EVENT 2
+https://gettvfree.tech/live/stream_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDIX" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="LIVE EVENT", LIVE BDIX EVENT 3
+https://gettvfree.tech/live/stream_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BDIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/T10_League_Logo.png" group-title="LIVE EVENT", ABU DHABI T10 LEAGUE
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099111/hd_akamai_iosmob_avc_hin_adt10_011223/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PLUS" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="LIVE EVENT", ESPN+
 https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LIVE FOOTBALL" tvg-logo="https://i.ibb.co/VTJ86vp/Picsart-23-06-27-22-48-28-222.png" group-title="LIVE EVENT", LIVE FOOTBALL (180P)
@@ -111,7 +117,6 @@ http://103.141.2.37:25461/live/web/web/579.ts
 http://103.141.2.37:25461/live/web/web/583.ts
 #EXTINF:-1 tvg-id="" tvg-name="SPORTS 18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sports18.png" group-title="HQ BDIX", SPORTS 18
 
-
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/WfB7NQY/Picsart-23-06-07-12-19-32-957.png" group-title="HQ BDIX", NATIONAL GEOGRAPHIC HD
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/3cpFQ62/Picsart-23-06-07-12-29-50-426.png" group-title="HQ BDIX", BBC EARTH HD
@@ -149,6 +154,7 @@ http://103.141.2.37:25461/live/web/web/573.ts
 #EXTINF:-1 tvg-id="" tvg-name="MADANI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Madani_TV.jpg" group-title="HQ BDIX", MADANI TV
 
 #EXTINF:-1 tvg-id="" tvg-name="QURAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/IRIB_Quran_%28old%29.png" group-title="HQ BDIX", QURAN TV
+
 
 
 
@@ -530,6 +536,8 @@ http://208.86.19.13:81/503.stream/index.m3u8?
 http://iptvbd.jagobd.com:1931/live-orgin/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKHON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESHI CHANNELS", EKHON TV
 https://tempskyview.jagobd.com:441/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT" tvg-logo="https://i.ibb.co/qgQHWnQ/Picsart-23-06-07-11-15-11-409.png" group-title="BANGLADESHI CHANNELS", INDEPENDENT
+https://nayeem-parvez.pw/api/bongo.m3u8?id=independent-tv
 #EXTINF:-1 tvg-id="" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="BANGLADESHI CHANNELS", NTV [2]
 
 #EXTINF:-1 tvg-id="" tvg-name="R TV" tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png" group-title="BANGLADESHI CHANNELS", R TV [2]
@@ -575,20 +583,50 @@ http://chanel.dekhaott.com/Gazi-TV/tracks-a1/index.fmp4.m3u8
 http://chanel.dekhaott.com/Tsportshd/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS CHANNELS", PTV SPORTS
 http://himel-op.ddns.net/PTV-Sports/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS CHANNELS", DUBAI SPORTS HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="SPORTS CHANNELS", T SPORTS HD
+https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Sports_Division_Logo.png" group-title="SPORTS CHANNELS", TNT SPORTS
+https://freehdgames.lol/chunklist/hlsch1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS 1 (HINDI)
+http://51.159.59.244/dd_s_h_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Sports_Division_Logo.png" group-title="SPORTS CHANNELS", TNT SPORTS 1
+https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPORTS CHANNELS", WILLOW HD
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS 1
 http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS 1 [2]
 http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS 1 [3]
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w870549950_b596000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS CHANNELS", DUBAI SPORTS HD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS 3 HD
+http://chanel.dekhaott.com/starsports3/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1 
 http://172.16.29.28:8080/hls/live1-fnet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1
 http://172.16.29.242:8080/fnet/live3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS 3 HD
-http://chanel.dekhaott.com/starsports3/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS 1
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS 2 HD
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/nwLphg7/Picsart-23-06-07-12-47-37-348.png" group-title="SPORTS CHANNELS", SONY TEN 1 HD
+https://cdn.sajeeb.online/Sony-Ten-1-hd/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/ZcksfGS/Picsart-23-06-07-12-47-16-858.png" group-title="SPORTS CHANNELS", SONY TEN 2 HD
+https://cdn.sajeeb.online/Sony-Ten-2-hd/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bPxRSQm/Picsart-23-06-07-12-36-09-155.png" group-title="SPORTS CHANNELS", SONY TEN 3 HD
+https://cdn.sajeeb.online/Sony-Ten-3-hd/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qBnn0Yz/Picsart-23-06-07-12-35-50-188.png" group-title="SPORTS CHANNELS", SONY TEN 4 HD
+https://cdn.sajeeb.online/Sony-Ten-4-hd/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="SPORTS CHANNELS", SONY TEN 5 HD
+https://cdn.sajeeb.online/Sony-Ten-5-hd/mono.m3u8
+
+
+
+
+
+
 
 
 
@@ -666,7 +704,10 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="INDIAN CHANNELS", ZEE BANGLA HD [2]
 http://chanel.dekhaott.com/zeebanglahd/tracks-a1/index.fmp4.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png" group-title="INDIAN CHANNELS", STAR BHARAT
+http://51.79.84.156:8082/starbharat/index.m3u8
+#EXTINF: -1 tvg-id="ts406" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="INDIAN CHANNELS", MTV HD Plus
+https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
 
 
 
@@ -748,7 +789,8 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES CHANNELS", 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES CHANNELS", 
-
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="MOVIES CHANNELS", STAR MOVIES HD
+https://edge2.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/n02XXG4/Picsart-23-06-07-18-25-44-626.png" group-title="MOVIES CHANNELS", STAR GOLD THRILLS
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg" group-title="MOVIES CHANNELS", STAR GOLD HD
@@ -819,8 +861,8 @@ http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/225809
 http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/225794
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="KIDS CHANNELS", KHUSHBOO BANGLA
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zFFBFCS/Picsart-23-06-07-18-33-22-817.png" group-title="KIDS CHANNELS", DISCOVERY KIDS
+https://i.mjh.nz/SamsungTVPlus/INBC15000054I.m3u8
 
 
 
@@ -998,6 +1040,14 @@ http://103.109.56.117/ftpdata/disk5/American/American_Movies/Train%20to%20Busan%
 http://103.109.56.115/ftpdata/hindi_movies/Jawan(2023).mkv
 #EXTINF:-1 tvg-id="" tvg-name="IRAIVAN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Iraivan.jpg" group-title="ONLINE MOVIES", IRAIVAN
 http://103.109.56.115/ftpdata/hindi_movies/Iraivan.(2023).mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Sapta_Saagaradaache_Ello_poster.jpeg" group-title="ONLINE MOVIES", SAPTA SAGARADAACHE ELLO (A)
+http://cdn.ihub.live:8082/ftp2/bollywood/2023/Sapta%20Sagaradaache%20Ello%20%E2%80%93%20Side%20A%20%282023%29/Sapta.Sagaradaache.Ello.Hindi.Org.1080P.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LEO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Leo_%282023_Indian_film%29.jpg" group-title="ONLINE MOVIES", LEO
+http://103.109.56.115/ftpdata/Tamil_movies/Leo_(2023).mkv
+#EXTINF:-1 tvg-id="" tvg-name="PARASITE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png" group-title="ONLINE MOVIES", PARASITE
+http://103.109.56.117/ftpdata/disk5/American/American_Movies/Parasite%20(2019).mkv
+#EXTINF:-1 tvg-id="" tvg-name="VARISU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Varisu_poster.jpg" group-title="ONLINE MOVIES", VARISU
+http://content.discoveryftp.net/secure/kERG_iM_DXNqu0ZuUZd82g/1701247551/Movies/Tamil/2023/Varisu/Varisu%20(2023)%20Dual%20ORG%201080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="CORONA PAPERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Corona_Papers_2023_film_poster.jpeg" group-title="ONLINE MOVIES", CORONA PAPERS
 http://103.109.56.117/ftpdata/disk7/Indian/Hindi_Dubed/Corona%20Papers.mkv
 
@@ -1017,6 +1067,8 @@ http://103.109.56.115/ftpdata/bangla_movie/boli%20s01%202021.mp4
 http://103.109.56.115/ftpdata/bangla_movie/buker%20moddhe%20agun.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WEDNESDAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Wednesday_Netflix_series_poster.png" group-title="ONLINE SERIES", WEDNESDAY
 http://103.109.56.117/ftpdata/disk7/Indian/Hindi_Dubed/Wednesday%20Addams.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE JENGABURU CURSE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/JengaBuru-Poster.jpg" group-title="ONLINE SERIES", THE JENGABURU CURSE
+http://103.109.56.115/ftpdata/hindi_movies/the%20jengaburu%20curse%20s01.mkv
 
 
 
