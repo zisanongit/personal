@@ -674,6 +674,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest?cb=20220525063636" group-title="INDIAN CHANNELS", ZING
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png" group-title="INDIAN CHANNELS", ZEE TAMIL
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="&FLIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Andflix.png" group-title="INDIAN CHANNELS", &FLIX
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="INDIAN CHANNELS",  ANIMAL PLANET
@@ -756,12 +758,14 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="MOVIES CHANNELS", COLORS CINEPLEX
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="MOVIES CHANNELS", COLORS CINEPLEX HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX SUPER HIT" tvg-logo="https://iili.io/JJY4ccg.md.png" group-title="MOVIES CHANNELS", COLORS CINEPLEX SUPERHITS
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMALU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Zeecinemaluenglish.png" group-title="MOVIES CHANNELS", ZEE CINEMALU
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/zeecinemalu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Zee_Bollywood.jpg" group-title="MOVIES CHANNELS", ZEE BOLLYWOOD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="MOVIES CHANNELS", STAR MOVIES HD
 http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="MOVIES CHANNELS", MBC BOLLYWOOD HD
@@ -814,7 +818,8 @@ http://watchindia.net:8880/live/60427/00546/784.ts
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="MOVIES CHANNELS", GOLDMINES BOLLYWOOD
 
 #EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="MOVIES CHANNELS", DHAMAKA MOVIES
-
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="MOVIES CHANNELS", COLORS CINEPLEX HD
+http://51.79.84.156:8082/ColorsCineplex/index.m3u8
 
 
 
