@@ -87,22 +87,26 @@ https://cdn.sajeeb.online/Sony-WAH/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="SPECIAL ADDITION", T SPORTS HD
 https://cdn.sajeeb.online/T-Sports-HD/video.m3u8?token=5mDCFDiG9Oc4y1
 #EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="SPECIAL ADDITION", GAZI TV HD
 https://cdn.sajeeb.online/GTV/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORTS CHANNELS", ASTRO CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPECIAL ADDITION", ASTRO CRICKET
 https://cdn.sajeeb.online/astro/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WILLOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPORTS CHANNELS", WILLOW HD
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPECIAL ADDITION", WILLOW HD
 https://cdn.sajeeb.online/Willow-Cricket/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPECIAL ADDITION", STAR SPORTS 1 HD
 https://cdn.sajeeb.online/Star-Sports-1/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPECIAL ADDITION", STAR SPORTS 2 HD
 https://cdn.sajeeb.online/Star-Sports-2/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPECIAL ADDITION", STAR SPORTS SELECT 1
 https://cdn.sajeeb.online/Star-Sports-Select-1/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 2
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPECIAL ADDITION", STAR SPORTS SELECT 2
 https://cdn.sajeeb.online/Star-Sports-Select-2/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
+
+
+
 
 
 
