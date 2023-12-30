@@ -574,7 +574,8 @@ https://cdn.sajeeb.online/Sony-PIX/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="KIDS CREATION" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="KIDS CHANNELS", KIDS CREATION
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="KIDS CHANNELS", DISNEY HINDI
 http://sonyiptv.net:8080/technology51926/HPU9ptcD2jsq/246763
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="KIDS CHANNELS", KHUSHBOO BANGLA
