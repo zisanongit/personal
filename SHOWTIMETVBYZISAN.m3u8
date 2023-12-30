@@ -290,6 +290,10 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN AFGHANISTAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Ariana_television_logo.png" group-title="SPORTS CHANNELS", ATN AFGHANISTAN
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTA SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta-sport-af.png" group-title="SPORTS CHANNELS", RTA SPORTS
+https://hls.rtasport.live/hls/stream.m3u8
+
+
 
 
 
@@ -373,7 +377,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 http://195.26.87.217/live.ts?channelId=4236&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png" group-title="INDIAN CHANNELS", STAR BHARAT
 http://195.181.169.78:8899/star_bharat/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png" group-title="INDIAN CHANNELS", STAR PLUS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png" group-title="INDIAN CHANNELS", STAR PLUS HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="INDIAN CHANNELS", STAR JALSHA HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
@@ -415,9 +419,116 @@ http://195.26.87.217/live.ts?channelId=116&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="MOVIES CHANNELS", JALSHA MOVIES HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX
+http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/163523
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX HD" tvg-logo="https://i.ibb.co/qgX6JfT/Picsart-23-06-07-12-52-40-872.png" group-title="MOVIES CHANNELS", SONY MAX HD
+http://195.26.87.217/live.ts?channelId=185&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://i.ibb.co/pXNNWYD/Picsart-23-06-07-12-52-23-332.png" group-title="MOVIES CHANNELS", SONY MAX 2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png/revision/latest?cb=20221023221602" group-title="MOVIES CHANNELS", SONY PIX
 
-#EXTINF:-1 tvg-id="" tvg-name="ANNOUNCEMENT" tvg-logo="https://i.ibb.co/2cyLd8L/Picsart-23-12-25-02-11-05-690.png" group-title="MOVIES CHANNELS", NOTICE 
-https://dl8.wapkizfile.info/filedownload/G8cEsvIWPYt8RaZOs8V3GCmu67bKfy50vo77w89atxmK_s_MpJBVkTaaizZPrKzY98fkm44KzHhavGuYYElZO8smXEF0ydOAiry5rCMUZkdqSQIlPMLwCUC7GIvntkOi0NwGLpn0vpYXZhUlQtdRJO8Q/Note-Cat-1-(trick32bd.wapkiz.com).mp4
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://i.ibb.co/NjzDQ6K/Picsart-23-06-07-12-34-53-772.png" group-title="MOVIES CHANNELS", SONY PIX HD
+http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/n02XXG4/Picsart-23-06-07-18-25-44-626.png" group-title="MOVIES CHANNELS", STAR GOLD THRILLS
+http://manik-sportshin2.zapto.org:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES CHANNELS", B4U MOVIES INDIA
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="MOVIES CHANNELS", BFLIX MOVIES
+http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="MOVIES CHANNELS", ZEE ACTION
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Anmol_Cinema.png/revision/latest?cb=20210826143243" group-title="MOVIES CHANNELS", ZEE ANMOL CINEMA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AND PICTURES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg" group-title="MOVIES CHANNELS", AND PICTURES
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/andpictures.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="MOVIES CHANNELS", COLORS CINEPLEX HD
+http://195.26.87.217/live.ts?channelId=470&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX SUPER HIT" tvg-logo="https://iili.io/JJY4ccg.md.png" group-title="MOVIES CHANNELS", COLORS CINEPLEX SUPERHITS
+http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMALU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Zeecinemaluenglish.png" group-title="MOVIES CHANNELS", ZEE CINEMALU
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/zeecinemalu.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Zee_Bollywood.jpg" group-title="MOVIES CHANNELS", ZEE BOLLYWOOD 
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="MOVIES CHANNELS", STAR MOVIES HD
+http://112.196.61.212:9292/STAR_MOVIES_FHD_VIDECON/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="MOVIES CHANNELS", MBC BOLLYWOOD HD
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHEEMAROO BOLLYWOOD" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="MOVIES CHANNELS", SHEEMAROO BOLLYWOOD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLASSIC BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_Clasic_%282018%29.svg/revision/latest?cb=20181116224354" group-title="MOVIES CHANNELS", CLASSIC BOLLYWOOD
+https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD HD" tvg-logo="https://i.ibb.co/YNGyQJR/Picsart-23-06-25-22-19-02-657.png" group-title="MOVIES CHANNELS", BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD PRIME" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png" group-title="MOVIES CHANNELS", BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI ONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Dubai_one_2021.png/revision/latest?cb=20230801023842" group-title="MOVIES CHANNELS", DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES CHANNELS", B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="SURYA MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Surya_movies.jpg/revision/latest?cb=20180318054520" group-title="MOVIES CHANNELS", SURYA MOVIES
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX
+
+#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES CHANNELS", B4U MOVIES UK
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES CHANNELS", 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES CHANNELS", 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES CHANNELS", 
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="MOVIES CHANNELS", STAR MOVIES HD
+https://edge2.laotv.la/live/StarMovie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/n02XXG4/Picsart-23-06-07-18-25-44-626.png" group-title="MOVIES CHANNELS", STAR GOLD THRILLS
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg" group-title="MOVIES CHANNELS", STAR GOLD HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg" group-title="MOVIES CHANNELS", STAR GOLD UK
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="MOVIES CHANNELS", STAR GOLD 2
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg/revision/latest?cb=20211216002621" group-title="MOVIES CHANNELS", STAR GOLD ROMANCE
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest/scale-to-width-down/250?cb=20211216003639" group-title="MOVIES CHANNELS", STAR GOLD SELECT
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABZY COOL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Abzy_Cool.jpg" group-title="MOVIES CHANNELS", ABZY COOL
+
+#EXTINF:-1 tvg-id="" tvg-name="ABZY MOVIES" tvg-logo="https://i.ibb.co/TTwf3Zn/Picsart-23-06-07-17-31-49-302.png" group-title="MOVIES CHANNELS", ABZY MOVIES
+
+#EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="MOVIES CHANNELS", DHINCHAAK
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="MOVIES CHANNELS", GOLDMINES MOVIES
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="MOVIES CHANNELS", GOLDMINES
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="MOVIES CHANNELS", GOLDMINES BOLLYWOOD
+
+#EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="MOVIES CHANNELS", DHAMAKA MOVIES
+
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="MOVIES CHANNELS", COLORS CINEPLEX HD
+
+#EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
+https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest/scale-to-width-down/250?cb=20211216003639" group-title="MOVIES CHANNELS", STAR GOLD SELECT
+
+#EXTINF:-1 tvg-id="" tvg-name="TAMIL TV" tvg-logo="https://www.dlf.pt/dfpng/middlepng/560-5607081_tamil-tv-channel-logos-png-download-tamil-tv.png" group-title="MOVIES CHANNELS", TAMIL TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="MOVIES CHANNELS", STAR MOVIES HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
+
 
 
 #Special
@@ -454,6 +565,9 @@ https://cdn.sajeeb.online/Sony-PIX/tracks-v1a1/mono.m3u8?token=5mDCFDiG9Oc4y1
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="SPECIAL ADDITION", COLORS CINEPLEX HD
 
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX SUPER HIT" tvg-logo="https://iili.io/JJY4ccg.md.png" group-title="SPECIAL ADDITION", COLORS CINEPLEX SUPERHITS
+
+
+
 
 
 
@@ -562,253 +676,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Zee " tvg-logo="" group-title="JUSTFLIX",Bangla | Zee 
-http://go.justflix.tv:80/client113/nyr1909/313
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Zee Cinema " tvg-logo="" group-title="JUSTFLIX",Bangla | Zee Cinema 
-http://go.justflix.tv:80/client113/nyr1909/314
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Star Jalsha " tvg-logo="" group-title="JUSTFLIX",Bangla | Star Jalsha 
-http://go.justflix.tv:80/client113/nyr1909/315
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Peace TV " tvg-logo="" group-title="JUSTFLIX",Bangla | Peace TV 
-http://go.justflix.tv:80/client113/nyr1909/318
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Tv One " tvg-logo="" group-title="JUSTFLIX",Bangla | Tv One 
-http://go.justflix.tv:80/client113/nyr1909/319
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channel I Europe " tvg-logo="" group-title="JUSTFLIX",Bangla | Channel I Europe 
-http://go.justflix.tv:80/client113/nyr1909/320
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | National Geographic HD " tvg-logo="" group-title="JUSTFLIX",Bangla | National Geographic HD 
-http://go.justflix.tv:80/client113/nyr1909/321
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Sony Aath" tvg-logo="" group-title="JUSTFLIX",Bangla | Sony Aath
-http://go.justflix.tv:80/client113/nyr1909/322
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Mohona TV " tvg-logo="" group-title="JUSTFLIX",Bangla | Mohona TV 
-http://go.justflix.tv:80/client113/nyr1909/323
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Masranga Tv " tvg-logo="" group-title="JUSTFLIX",Bangla | Masranga Tv 
-http://go.justflix.tv:80/client113/nyr1909/324
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channel 9 " tvg-logo="" group-title="JUSTFLIX",Bangla | Channel 9 
-http://go.justflix.tv:80/client113/nyr1909/325
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Colors  HD" tvg-logo="" group-title="JUSTFLIX",Bangla | Colors  HD
-http://go.justflix.tv:80/client113/nyr1909/326
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Discovery " tvg-logo="" group-title="JUSTFLIX",Bangla | Discovery 
-http://go.justflix.tv:80/client113/nyr1909/327
-#EXTINF:-1 tvg-id="" tvg-name="Bangla |  TV" tvg-logo="" group-title="JUSTFLIX",Bangla |  TV
-http://go.justflix.tv:80/client113/nyr1909/328
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Ananda " tvg-logo="" group-title="JUSTFLIX",Bangla | Ananda 
-http://go.justflix.tv:80/client113/nyr1909/329
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | 24 Ghanta " tvg-logo="" group-title="JUSTFLIX",Bangla | 24 Ghanta 
-http://go.justflix.tv:80/client113/nyr1909/330
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Discovery HD " tvg-logo="" group-title="JUSTFLIX",Bangla | Discovery HD 
-http://go.justflix.tv:80/client113/nyr1909/331
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channel I " tvg-logo="" group-title="JUSTFLIX",Bangla | Channel I 
-http://go.justflix.tv:80/client113/nyr1909/332
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Aakash " tvg-logo="" group-title="JUSTFLIX",Bangla | Aakash 
-http://go.justflix.tv:80/client113/nyr1909/333
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Atn music " tvg-logo="" group-title="JUSTFLIX",Bangla | Atn music 
-http://go.justflix.tv:80/client113/nyr1909/335
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Boishakhi " tvg-logo="" group-title="JUSTFLIX",Bangla | Boishakhi 
-http://go.justflix.tv:80/client113/nyr1909/336
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channel S " tvg-logo="" group-title="JUSTFLIX",Bangla | Channel S 
-http://go.justflix.tv:80/client113/nyr1909/337
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | News 24 " tvg-logo="" group-title="JUSTFLIX",Bangla | News 24 
-http://go.justflix.tv:80/client113/nyr1909/338
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Jamuna TV " tvg-logo="" group-title="JUSTFLIX",Bangla | Jamuna TV 
-http://go.justflix.tv:80/client113/nyr1909/339
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Millenium TV " tvg-logo="" group-title="JUSTFLIX",Bangla | Millenium TV 
-http://go.justflix.tv:80/client113/nyr1909/340
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Gazi TV " tvg-logo="" group-title="JUSTFLIX",Bangla | Gazi TV 
-http://go.justflix.tv:80/client113/nyr1909/341
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Deepto Tv " tvg-logo="" group-title="JUSTFLIX",Bangla | Deepto Tv 
-http://go.justflix.tv:80/client113/nyr1909/342
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Madani Channel " tvg-logo="" group-title="JUSTFLIX",Bangla | Madani Channel 
-http://go.justflix.tv:80/client113/nyr1909/343
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Deshi TV " tvg-logo="" group-title="JUSTFLIX",Bangla | Deshi TV 
-http://go.justflix.tv:80/client113/nyr1909/344
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Deshe Bidshe " tvg-logo="" group-title="JUSTFLIX",Bangla | Deshe Bidshe 
-http://go.justflix.tv:80/client113/nyr1909/345
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | BD My Cinema " tvg-logo="" group-title="JUSTFLIX",Bangla | BD My Cinema 
-http://go.justflix.tv:80/client113/nyr1909/346
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Zee Bangla Usa" tvg-logo="" group-title="JUSTFLIX",Bangla | Zee Bangla Usa
-http://go.justflix.tv:80/client113/nyr1909/347
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | AL Dawah TV " tvg-logo="" group-title="JUSTFLIX",Bangla | AL Dawah TV 
-http://go.justflix.tv:80/client113/nyr1909/348
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channel 99 " tvg-logo="" group-title="JUSTFLIX",Bangla | Channel 99 
-http://go.justflix.tv:80/client113/nyr1909/349
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | MTA " tvg-logo="" group-title="JUSTFLIX",Bangla | MTA 
-http://go.justflix.tv:80/client113/nyr1909/350
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Desh Tv " tvg-logo="" group-title="JUSTFLIX",Bangla | Desh Tv 
-http://go.justflix.tv:80/client113/nyr1909/351
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Btv world " tvg-logo="" group-title="JUSTFLIX",Bangla | Btv world 
-http://go.justflix.tv:80/client113/nyr1909/352
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Btv Chittagong " tvg-logo="" group-title="JUSTFLIX",Bangla | Btv Chittagong 
-http://go.justflix.tv:80/client113/nyr1909/353
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Sangeet " tvg-logo="" group-title="JUSTFLIX",Bangla | Sangeet 
-http://go.justflix.tv:80/client113/nyr1909/354
-#EXTINF:-1 tvg-id="" tvg-name="Bangla |  vision " tvg-logo="" group-title="JUSTFLIX",Bangla |  vision 
-http://go.justflix.tv:80/client113/nyr1909/356
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Bijoy " tvg-logo="" group-title="JUSTFLIX",Bangla | Bijoy 
-http://go.justflix.tv:80/client113/nyr1909/355
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Ruposhi " tvg-logo="" group-title="JUSTFLIX",Bangla | Ruposhi 
-http://go.justflix.tv:80/client113/nyr1909/357
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | R Plus " tvg-logo="" group-title="JUSTFLIX",Bangla | R Plus 
-http://go.justflix.tv:80/client113/nyr1909/358
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Atn News " tvg-logo="" group-title="JUSTFLIX",Bangla | Atn News 
-http://go.justflix.tv:80/client113/nyr1909/359
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Atn " tvg-logo="" group-title="JUSTFLIX",Bangla | Atn 
-http://go.justflix.tv:80/client113/nyr1909/360
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Asian Tv " tvg-logo="" group-title="JUSTFLIX",Bangla | Asian Tv 
-http://go.justflix.tv:80/client113/nyr1909/361
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Star Jalsa Movies " tvg-logo="" group-title="JUSTFLIX",Bangla | Star Jalsa Movies 
-http://go.justflix.tv:80/client113/nyr1909/362
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Ntv UK " tvg-logo="" group-title="JUSTFLIX",Bangla | Ntv UK 
-http://go.justflix.tv:80/client113/nyr1909/363
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Time Television " tvg-logo="" group-title="JUSTFLIX",Bangla | Time Television 
-http://go.justflix.tv:80/client113/nyr1909/364
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Music Fatafati " tvg-logo="" group-title="JUSTFLIX",Bangla | Music Fatafati 
-http://go.justflix.tv:80/client113/nyr1909/365
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Channeli " tvg-logo="" group-title="JUSTFLIX",Bangla | Channeli 
-http://go.justflix.tv:80/client113/nyr1909/366
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Mytv " tvg-logo="" group-title="JUSTFLIX",Bangla | Mytv 
-http://go.justflix.tv:80/client113/nyr1909/367
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Ntv " tvg-logo="" group-title="JUSTFLIX",Bangla | Ntv 
-http://go.justflix.tv:80/client113/nyr1909/368
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Independent " tvg-logo="" group-title="JUSTFLIX",Bangla | Independent 
-http://go.justflix.tv:80/client113/nyr1909/369
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Rtv " tvg-logo="" group-title="JUSTFLIX",Bangla | Rtv 
-http://go.justflix.tv:80/client113/nyr1909/370
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Gaan " tvg-logo="" group-title="JUSTFLIX",Bangla | Gaan 
-http://go.justflix.tv:80/client113/nyr1909/371
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Satv " tvg-logo="" group-title="JUSTFLIX",Bangla | Satv 
-http://go.justflix.tv:80/client113/nyr1909/372
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Sktv " tvg-logo="" group-title="JUSTFLIX",Bangla | Sktv 
-http://go.justflix.tv:80/client113/nyr1909/373
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Somoy " tvg-logo="" group-title="JUSTFLIX",Bangla | Somoy 
-http://go.justflix.tv:80/client113/nyr1909/374
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Itv " tvg-logo="" group-title="JUSTFLIX",Bangla | Itv 
-http://go.justflix.tv:80/client113/nyr1909/375
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Etv " tvg-logo="" group-title="JUSTFLIX",Bangla | Etv 
-http://go.justflix.tv:80/client113/nyr1909/376
-#EXTINF:-1 tvg-id="" tvg-name="Bangla | Ekatoor Tv " tvg-logo="" group-title="JUSTFLIX",Bangla | Ekatoor Tv 
-http://go.justflix.tv:80/client113/nyr1909/377
 
-
-
-
-#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Star Plus India HD" tvg-logo="http://go.justflix.tv/images/indialogo/StarPlusEuropeHD.png" group-title="JUSTFLIX",Star Plus India HD
-http://go.justflix.tv:80/client113/nyr1909/162
-#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Star Bharat India HD" tvg-logo="http://go.justflix.tv/images/india/Star_Bharat_HD.png" group-title="JUSTFLIX",Star Bharat India HD
-http://go.justflix.tv:80/client113/nyr1909/874
-#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Sony Sab India HD" tvg-logo="http://go.justflix.tv/images/india/Sony_SAB_HD.png" group-title="JUSTFLIX",Sony Sab India HD
-http://go.justflix.tv:80/client113/nyr1909/227
-#EXTINF:-1 tvg-id="zeeindia@0-9-tvpictureshd" tvg-name="& Pictures India HD" tvg-logo="http://go.justflix.tv/images/india/And_Pictures_HD.png" group-title="JUSTFLIX",& Pictures India HD
-http://go.justflix.tv:80/client113/nyr1909/26
-#EXTINF:-1 tvg-id=" ukserver2@sony.entertainment.asia.gb" tvg-name="Star Gold Select India HD" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="JUSTFLIX",Star Gold Select India HD
-http://go.justflix.tv:80/client113/nyr1909/235
-#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Star Gold India HD" tvg-logo="http://go.justflix.tv:80/images/8zjztTjnab0n2kahhnNxDGbi7TvIQVyA.png" group-title="JUSTFLIX",Star Gold India HD
-http://go.justflix.tv:80/client113/nyr1909/185
-#EXTINF:-1 tvg-id="zeeindia@0-9-zeecinemahd" tvg-name="Zee Cinema India HD" tvg-logo="http://go.justflix.tv/images/india/Zee_Cinema_HD.png" group-title="JUSTFLIX",Zee Cinema India HD
-http://go.justflix.tv:80/client113/nyr1909/165
-#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Sony Max India HD" tvg-logo="http://go.justflix.tv:80/images/CxDR1XlgheqDeshctrM9dGjb2rt9TzBC.png" group-title="JUSTFLIX",Sony Max India HD
-http://go.justflix.tv:80/client113/nyr1909/97
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Tv India" tvg-logo="" group-title="JUSTFLIX",Cinema Tv India
-http://go.justflix.tv:80/client113/nyr1909/143
-#EXTINF:-1 tvg-id="" tvg-name="Zee Anmol Cinema India" tvg-logo="http://go.justflix.tv/images/india/Zee_Anmol_Cinema.png" group-title="JUSTFLIX",Zee Anmol Cinema India
-http://go.justflix.tv:80/client113/nyr1909/194
-#EXTINF:-1 tvg-id="" tvg-name="Zee Action India" tvg-logo="http://go.justflix.tv/images/india/Zee_Action.png" group-title="JUSTFLIX",Zee Action India
-http://go.justflix.tv:80/client113/nyr1909/29
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bollywood India" tvg-logo="" group-title="JUSTFLIX",Zee Bollywood India
-http://go.justflix.tv:80/client113/nyr1909/142
-#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex SuperHits" tvg-logo="http://go.justflix.tv/images/indialogo/ColorsCineplexIndiaHD.png" group-title="JUSTFLIX",Colors Cineplex SuperHits
-http://go.justflix.tv:80/client113/nyr1909/966
-#EXTINF:-1 tvg-id="" tvg-name="Miniplex HD" tvg-logo="http://go.justflix.tv/images/india/miniplex.png" group-title="JUSTFLIX",Miniplex HD
-http://go.justflix.tv:80/client113/nyr1909/563
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold 2" tvg-logo="" group-title="JUSTFLIX",Star Gold 2
-http://go.justflix.tv:80/client113/nyr1909/3342
-#EXTINF:-1 tvg-id="indianchannels-USA@1477" tvg-name="Colors Cineplex Usa HD" tvg-logo="http://go.justflix.tv/images/indialogo/ColorsCineplexIndiaHD.png" group-title="JUSTFLIX",Colors Cineplex Usa HD
-http://go.justflix.tv:80/client113/nyr1909/3343
-#EXTINF:-1 tvg-id=" indianchannels-USA@" tvg-name="Sony Max Usa HD" tvg-logo="http://go.justflix.tv:80/images/CxDR1XlgheqDeshctrM9dGjb2rt9TzBC.png" group-title="JUSTFLIX",Sony Max Usa HD
-http://go.justflix.tv:80/client113/nyr1909/3374
-#EXTINF:-1 tvg-id="zeeusa@0-9-zeecinemahd" tvg-name="Zee Cinema Usa HD" tvg-logo="" group-title="JUSTFLIX",Zee Cinema Usa HD
-http://go.justflix.tv:80/client113/nyr1909/3367
-#EXTINF:-1 tvg-id=" indianchannels-USA@" tvg-name="Star Bharat Usa HD" tvg-logo="http://go.justflix.tv/images/india/Star_Bharat_HD.png" group-title="JUSTFLIX",Star Bharat Usa HD
-http://go.justflix.tv:80/client113/nyr1909/3381
-#EXTINF:-1 tvg-id="zeeusa@0-9-tvpictureshd" tvg-name="& Pictures Usa HD" tvg-logo="http://go.justflix.tv/images/indialogo/PicturesIndiaHD.png" group-title="JUSTFLIX",& Pictures Usa HD
-http://go.justflix.tv:80/client113/nyr1909/3379
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix India HD" tvg-logo="http://go.justflix.tv/images/india/Sony_Pix_HD.png" group-title="JUSTFLIX",Sony Pix India HD
-http://go.justflix.tv:80/client113/nyr1909/234
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies India HD" tvg-logo="" group-title="JUSTFLIX",Star Movies India HD
-http://go.justflix.tv:80/client113/nyr1909/160
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold Thriller" tvg-logo="http://go.justflix.tv/images/indialogo/StarGoldIndiaHD.png" group-title="JUSTFLIX",Star Gold Thriller
-http://go.justflix.tv:80/client113/nyr1909/27
-#EXTINF:-1 tvg-id="ukserver@StarGold.uk" tvg-name="Utsav Gold UK" tvg-logo="http://go.justflix.tv/images/indialogo/INUKUSTAVGOLDHD.png" group-title="JUSTFLIX",Utsav Gold UK
-http://go.justflix.tv:80/client113/nyr1909/33
-#EXTINF:-1 tvg-id="ukserver@SonyMax.uk" tvg-name="Sony Max UK" tvg-logo="http://go.justflix.tv:80/images/3djGJGbaPf9Ji443agLY03jmspV60Zm8.png" group-title="JUSTFLIX",Sony Max UK
-http://go.justflix.tv:80/client113/nyr1909/34
-
-
-
-
-
-#EXTINF:-1 tvg-id="zeeindia@0-9-tvhd_0" tvg-name="& Tv India HD" tvg-logo="http://go.justflix.tv/images/india/And_TV_HD.png" group-title="JUSTFLIX",& Tv India HD
-http://go.justflix.tv:80/client113/nyr1909/120
-#EXTINF:-1 tvg-id=" zeeindia@0-9-zeetvhd" tvg-name="Zee Tv India HD" tvg-logo="http://go.justflix.tv/images/indialogo/ZeeTvEuropeHD.png" group-title="JUSTFLIX",Zee Tv India HD
-http://go.justflix.tv:80/client113/nyr1909/163
-#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Sony TV India HD" tvg-logo="http://go.justflix.tv/images/india/Sony_HD.png" group-title="JUSTFLIX",Sony TV India HD
-http://go.justflix.tv:80/client113/nyr1909/166
-#EXTINF:-1 tvg-id="" tvg-name="Sony wah India" tvg-logo="" group-title="JUSTFLIX",Sony wah India
-http://go.justflix.tv:80/client113/nyr1909/233
-#EXTINF:-1 tvg-id="BrazzersTVAdult" tvg-name="Zing Music UK" tvg-logo="http://go.justflix.tv/images/india/Zing.png" group-title="JUSTFLIX",Zing Music UK
-http://go.justflix.tv:80/client113/nyr1909/112
-#EXTINF:-1 tvg-id="" tvg-name="B4u Music UK" tvg-logo="http://go.justflix.tv/images/india/B4U_Music.png" group-title="JUSTFLIX",B4u Music UK
-http://go.justflix.tv:80/client113/nyr1909/116
-#EXTINF:-1 tvg-id="" tvg-name="Music India" tvg-logo="http://go.justflix.tv/images/india/Music_India.png" group-title="JUSTFLIX",Music India
-http://go.justflix.tv:80/client113/nyr1909/113
-#EXTINF:-1 tvg-id="" tvg-name="Mtv Beats India HD" tvg-logo="http://go.justflix.tv:80/images/ohtQPxmpUueUufuJmfXzJNmW4qwktEKr.png" group-title="JUSTFLIX",Mtv Beats India HD
-http://go.justflix.tv:80/client113/nyr1909/167
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Mtv India" tvg-logo="http://go.justflix.tv/images/india/MTV.png" group-title="JUSTFLIX",Mtv India
-http://go.justflix.tv:80/client113/nyr1909/140
-#EXTINF:-1 tvg-id="" tvg-name="Masti Music India" tvg-logo="http://go.justflix.tv/images/india/Mastiii.png" group-title="JUSTFLIX",Masti Music India
-http://go.justflix.tv:80/client113/nyr1909/134
-#EXTINF:-1 tvg-id="" tvg-name="9XM Music India" tvg-logo="http://go.justflix.tv/images/india/9XM.png" group-title="JUSTFLIX",9XM Music India
-http://go.justflix.tv:80/client113/nyr1909/86
-#EXTINF:-1 tvg-id="" tvg-name="9X Jalwa India" tvg-logo="http://go.justflix.tv/images/india/9X_Jalwa.png" group-title="JUSTFLIX",9X Jalwa India
-http://go.justflix.tv:80/client113/nyr1909/85
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Ten JUSTFLIX" tvg-logo="" group-title="JUSTFLIX",Ten JUSTFLIX
-http://go.justflix.tv:80/client113/nyr1909/127
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD" tvg-logo="http://go.justflix.tv/images/JUSTFLIX/astrocricketfullhd.png" group-title="JUSTFLIX",Astro Cricket HD
-http://go.justflix.tv:80/client113/nyr1909/141
-#EXTINF:-1 tvg-id="78" tvg-name="Star JUSTFLIX 1 India HD" tvg-logo="http://go.justflix.tv/images/india/starsp1.png" group-title="JUSTFLIX",Star Sports 1 India HD
-http://go.justflix.tv:80/client113/nyr1909/121
-#EXTINF:-1 tvg-id="" tvg-name="Star JUSTFLIX 2 India HD" tvg-logo="http://go.justflix.tv/images/india/starsp2.png" group-title="JUSTFLIX",Star Sports 2 India HD
-http://go.justflix.tv:80/client113/nyr1909/122
-#EXTINF:-1 tvg-id="" tvg-name="Star JUSTFLIX JUSTFLIX India HD" tvg-logo="http://go.justflix.tv/images/india/starspJUSTFLIX.png" group-title="JUSTFLIX",Star Sports India HD
-http://go.justflix.tv:80/client113/nyr1909/123
-#EXTINF:-1 tvg-id="" tvg-name="Star Sport Select 1 India HD" tvg-logo="http://go.justflix.tv/images/india/spselect1.png" group-title="JUSTFLIX",Star Sport Select 1 India HD
-http://go.justflix.tv:80/client113/nyr1909/189
-#EXTINF:-1 tvg-id="" tvg-name="Star Sport Select 2 India HD" tvg-logo="http://go.justflix.tv/images/india/spselect2.png" group-title="JUSTFLIX",Star Sport Select 2 India HD
-http://go.justflix.tv:80/client113/nyr1909/190
-#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket HD" tvg-logo="http://go.justflix.tv/images/JUSTFLIX/willowcricketfullhd.png" group-title="JUSTFLIX",Willow Cricket HD
-http://go.justflix.tv:80/client113/nyr1909/125
-
-
-
-#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="Sony BBC Earth India HD" tvg-logo="http://go.justflix.tv/images/india/Sony_BBC_Earth_HD.png" group-title="JUSTFLIX",Sony BBC Earth India HD
-http://go.justflix.tv:80/client113/nyr1909/65
-#EXTINF:-1 tvg-id="605" tvg-name="National Geograhic India HD" tvg-logo="" group-title="JUSTFLIX",National Geograhic India HD
-http://go.justflix.tv:80/client113/nyr1909/192
-#EXTINF:-1 tvg-id=" indianchannels@" tvg-name="History Tv India HD" tvg-logo="http://go.justflix.tv/images/india/History_HD.png" group-title="JUSTFLIX",History Tv India HD
-http://go.justflix.tv:80/client113/nyr1909/138
-#EXTINF:-1 tvg-id="" tvg-name="Travel Xp India HD" tvg-logo="http://go.justflix.tv/images/india/Travel_XP_HD.png" group-title="JUSTFLIX",Travel Xp India HD
-http://go.justflix.tv:80/client113/nyr1909/128
-#EXTINF:-1 tvg-id="" tvg-name="Discovery World India HD" tvg-logo="http://go.justflix.tv/images/indialogo/JUSTFLIXDISCOVERYWORLDHD.png" group-title="JUSTFLIX",Discovery World India HD
-http://go.justflix.tv:80/client113/nyr1909/229
-#EXTINF:-1 tvg-id="" tvg-name="Live Darshan" tvg-logo="" group-title="JUSTFLIX",Live Darshan
-http://go.justflix.tv:80/client113/nyr1909/221
-#EXTINF:-1 tvg-id="" tvg-name="Saileela TV " tvg-logo="" group-title="JUSTFLIX",Saileela TV 
-http://go.justflix.tv:80/client113/nyr1909/182
-#EXTINF:-1 tvg-id="" tvg-name="Fox life India" tvg-logo="http://go.justflix.tv/images/indialogo/JUSTFLIXFOXLIFEHD.png" group-title="JUSTFLIX",Fox life India
-http://go.justflix.tv:80/client113/nyr1909/159
 
 
 
