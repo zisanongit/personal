@@ -7,4 +7,4 @@ Contact Links Below 👇🏻👇🏻 <br>
 *Instagram:https://instagram.com/ZisanIslam.tushar<br>
 *Website  :https://livestreamfree.fun<br>
 *Github   : 🔄<br>
-*Telegram :t.me/zisan_islam<br>
+*Telegram :<a href="https://t.me/zisan_islam">zisan_islam</a><br>
