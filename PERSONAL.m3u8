@@ -1,8 +1,4 @@
-<html><style>
-.user-select-none {
-  user-select: none;
-}
-</style>
+
 
 #EXTM3U  x-tvg-url="https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz"
 
