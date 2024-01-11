@@ -274,17 +274,17 @@ https://crackle-plex.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAZARA TV" tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png" group-title="INDIAN CHANNELS", NAZARA TV
 https://epiconvh.s.llnwi.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SONY ENTERTAINMENT TELEVISION HD
-http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=81&e=.m3u8%7CUser-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest?cb=20191222192526" group-title="INDIAN CHANNELS", ZEE TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Zee_TV_HD_2017.svg/revision/latest/scale-to-width-down/250?cb=20210514173308" group-title="INDIAN CHANNELS", ZEE TV HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB
-http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=80&e=.m3u8%7CUser-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB HD
 http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="https://i.ibb.co/xzN3Yb2/Picsart-23-06-07-12-30-14-157.png" group-title="INDIAN CHANNELS", SONY PAL
-http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=87&e=.m3u8%7CUser-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="INDIAN CHANNELS", SONY WAH
 http://195.26.87.217/live.ts?channelId=187&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png" group-title="INDIAN CHANNELS", ZEE ANMOL
@@ -306,7 +306,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/3kQ27NW/Picsart-23-06-07-11-43-44-862.png" group-title="INDIAN CHANNELS", NATIONAL GEOGRAPHIC
 http://195.26.87.217/live.ts?channelId=4236&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png" group-title="INDIAN CHANNELS", STAR BHARAT
-http://195.181.169.78:8899/star_bharat/index.m3u8
+https://bdsatv24.000webhostapp.com/Toffe.php?id=star_bharat
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png" group-title="INDIAN CHANNELS", STAR PLUS HD
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="INDIAN CHANNELS", STAR JALSHA HD
@@ -330,7 +330,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:-1 tvg-id="" tvg-name="DD NATIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/DD-National_2022.png/revision/latest?cb=20230610222358" group-title="INDIAN CHANNELS", DD NATIONAL
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="INDIAN CHANNELS", ZEE BANGLA HD [2]
-http://chanel.dekhaott.com/zeebanglahd/tracks-a1/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png" group-title="INDIAN CHANNELS", STAR BHARAT
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 #EXTINF: -1 tvg-id="ts406" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="INDIAN CHANNELS", MTV HD Plus
@@ -443,16 +443,53 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ABZY MOVIES" tvg-logo="https://i.ibb.co/TTwf3Zn/Picsart-23-06-07-17-31-49-302.png" group-title="MOVIES CHANNELS", ABZY MOVIES
 
+
+_____________
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=80&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB HD
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=77&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SET SD
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=81&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SET HD
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=73&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="INDIAN CHANNELS", SONY AATH
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=86&e=.m3u8|User-Agent=bdsajib
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="https://i.ibb.co/xzN3Yb2/Picsart-23-06-07-12-30-14-157.png" group-title="INDIAN CHANNELS", SONY PAL
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=87&e=.m3u8|User-Agent=bdsajib
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="MOVIES CHANNELS", DHINCHAAK
-https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=153&e=.m3u8%7CUser-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=153&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="MOVIES CHANNELS", GOLDMINES
-https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=154&e=.m3u8%7CUser-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=154&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="MOVIES CHANNELS", GOLDMINES MOVIES
-https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=156&e=.m3u8%7CUser-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=156&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="MOVIES CHANNELS", GOLDMINES BOLLYWOOD
-https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=155&e=.m3u8%7CUser-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=155&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="MOVIES CHANNELS", DHAMAKA MOVIES
-https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=191&e=.m3u8%7CUser-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=191&e=.m3u8|User-Agent=bdsajib
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX HD 
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=71&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://i.ibb.co/pXNNWYD/Picsart-23-06-07-12-52-23-332.png" group-title="MOVIES CHANNELS", SONY MAX 2
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=82&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.ibb.co/JFTfGm4/Picsart-23-06-07-12-25-34-072.png" group-title="MOVIES CHANNELS", B4U KADAK
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=149&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="MOVIES CHANNELS", BFLIX MOVIES
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=163&e=.m3u8|User-Agent=bdsajib
+____________
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="MOVIES CHANNELS", COLORS CINEPLEX HD
 
 #EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
@@ -480,6 +517,8 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="KIDS CHANNELS", DISNEY HINDI
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JCGcTGk/Picsart-23-06-07-12-35-16-295.png" group-title="KIDS CHANNELS", SONY YAY
+https://bdsajib112.000webhostapp.com/bdaynaa.php?id=70&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="KIDS CHANNELS", KHUSHBOO BANGLA
 http://103.223.14.56:8000/play/a0ti/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="KIDS CHANNELS", NICK
@@ -567,6 +606,33 @@ http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="V2BEAT" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/V2BEATTV.png" group-title="MUSIC CHANNELS", V2BEAT
 https://de1se01.v2beat.live/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://i.ibb.co/3kQ27NW/Picsart-23-06-07-11-43-44-862.png" group-title="INFOTAINMENT CHANNELS", NATIONAL GEOGRAPHIC
+http://146.59.19.1/5058/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS", DISCOVERY HD (BANGLA)
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="INFOTAINMENT CHANNELS",  ANIMAL PLANET HD
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/3cpFQ62/Picsart-23-06-07-12-29-50-426.png" group-title="INFOTAINMENT CHANNELS", BBC EARTH HD
+https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=72&e=.m3u8%7CUser-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.ibb.co/kqbnDVX/Picsart-23-07-01-22-11-33-076.png" group-title="INFOTAINMENT CHANNELS", TRAVELXP (HINDI)
+http://watchindia.net:8880/live/72695/24354/792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://i.ibb.co/3kQ27NW/Picsart-23-06-07-11-43-44-862.png" group-title="INFOTAINMENT CHANNELS", NATIONAL GEOGRAPHIC
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS", DISCOVERY HD (HINDI)
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="INFOTAINMENT CHANNELS",  ANIMAL PLANET HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.ibb.co/kqbnDVX/Picsart-23-07-01-22-11-33-076.png" group-title="INFOTAINMENT CHANNELS", TRAVELXP (ENGLISH)
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg" group-title="INFOTAINMENT CHANNELS",  CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD FOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png" group-title="INFOTAINMENT CHANNELS", FOOD FOOD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 
 
 
