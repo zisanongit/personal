@@ -444,45 +444,43 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABZY MOVIES" tvg-logo="https://i.ibb.co/TTwf3Zn/Picsart-23-06-07-17-31-49-302.png" group-title="MOVIES CHANNELS", ABZY MOVIES
 
 
-_____________
-
 #EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=80&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=80&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB HD
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=77&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=77&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SET SD
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=81&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=81&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SET HD
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=73&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=73&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="INDIAN CHANNELS", SONY AATH
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=86&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=86&e=.m3u8|User-Agent=bdsajib
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="https://i.ibb.co/xzN3Yb2/Picsart-23-06-07-12-30-14-157.png" group-title="INDIAN CHANNELS", SONY PAL
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=87&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=87&e=.m3u8|User-Agent=bdsajib
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="MOVIES CHANNELS", DHINCHAAK
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=153&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=153&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="MOVIES CHANNELS", GOLDMINES
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=154&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=154&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="MOVIES CHANNELS", GOLDMINES MOVIES
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=156&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=156&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="MOVIES CHANNELS", GOLDMINES BOLLYWOOD
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=155&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=155&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="MOVIES CHANNELS", DHAMAKA MOVIES
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=191&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=191&e=.m3u8|User-Agent=bdsajib
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX HD 
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=71&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=71&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://i.ibb.co/pXNNWYD/Picsart-23-06-07-12-52-23-332.png" group-title="MOVIES CHANNELS", SONY MAX 2
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=82&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=82&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.ibb.co/JFTfGm4/Picsart-23-06-07-12-25-34-072.png" group-title="MOVIES CHANNELS", B4U KADAK
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=149&e=.m3u8|User-Agent=bdsajib
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=149&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="MOVIES CHANNELS", BFLIX MOVIES
-https://bdsajib112.000webhostapp.com/bdaynaa.php?id=163&e=.m3u8|User-Agent=bdsajib
-____________
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=163&e=.m3u8|User-Agent=bdsajib
+
 
 
 
