@@ -160,134 +160,77 @@ https://cdn.sajeeb.online/Sony-PIX/tracks-v1a1/mono.m3u8?token=843d5e6367000c3af
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="HQ BDIX", SOMOY TV
-http://103.141.2.37:25461/live/web/web/597.ts
-#EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="HQ BDIX", MAASRANGA TV
-http://103.141.2.37:25461/live/web/web/596.ts
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="HQ BDIX",  CHANNEL I
-http://103.141.2.37:25461/live/web/web/595.ts
-#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT" tvg-logo="https://i.ibb.co/qgQHWnQ/Picsart-23-06-07-11-15-11-409.png" group-title="HQ BDIX", INDEPENDENT
-http://103.141.2.37:25461/live/web/web/590.ts
-#EXTINF:-1 tvg-id="" tvg-name="EKATTOR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png" group-title="HQ BDIX", EKATTOR
 
-#EXTINF:-1 tvg-id="" tvg-name="ATN BANGLA" tvg-logo="https://i.ibb.co/D7sMcgj/Picsart-23-06-07-11-27-15-922.png" group-title="HQ BDIX", ATN BANGLA
-http://103.141.2.37:25461/live/web/web/612.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png" group-title="HQ BDIX", DEEPTO TV
-http://103.141.2.37:25461/live/web/web/587.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="HQ BDIX", NICK
-http://103.141.2.37:25461/live/web/web/615.ts
-#EXTINF:-1 tvg-id="" tvg-name="CN ARABIC" tvg-logo="https://i.ibb.co/Y7HsgD5/Picsart-23-06-25-22-02-24-869.png" group-title="HQ BDIX", CN ARABIC
-http://103.141.2.37:25461/live/web/web/616.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="HQ BDIX", STAR JALSHA HD
-http://103.141.2.37:25461/live/web/web/603.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="HQ BDIX", ZEE BANGLA HD
-http://103.141.2.37:25461/live/web/web/602.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="HQ BDIX", SONY AATH
-http://103.141.2.37:25461/live/web/web/591.ts
-#EXTINF:-1 tvg-id="" tvg-name="SUN BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="HQ BDIX", SUN BANGLA
-http://103.141.2.37:25461/live/web/web/589.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?" group-title="HQ BDIX", COLORS BANGLA HD
-http://103.141.2.37:25461/live/web/web/601.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="HQ BDIX", COLORS HD
-http://103.141.2.37:25461/live/web/web/544.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png" group-title="HQ BDIX", SONY ENTERTAINMENT TELEVISION HD
-http://103.141.2.37:25461/live/web/web/551.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png" group-title="HQ BDIX", STAR PLUS HD
-http://103.141.2.37:25461/live/web/web/546.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg" group-title="HQ BDIX", ZEE TV
-http://103.141.2.37:25461/live/web/web/553.ts
-#EXTINF:-1 tvg-id="" tvg-name="ENTER 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg" group-title="HQ BDIX", ENTER 10 BANGLA
-http://103.141.2.37:25461/live/web/web/606.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX HD" tvg-logo="https://i.ibb.co/qgX6JfT/Picsart-23-06-07-12-52-40-872.png" group-title="HQ BDIX", SONY MAX HD
-http://103.141.2.37:25461/live/web/web/552.ts
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="HQ BDIX", GOLDMINES 
 
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg" group-title="HQ BDIX", ZEE CINEMA HD
-http://103.141.2.37:25461/live/web/web/545.ts
-#EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="HQ BDIX", AND PICTURES HD
-http://103.141.2.37:25461/live/web/web/543.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="HQ BDIX", COLORS CINEPLEX
-http://103.141.2.37:25461/live/web/web/547.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg" group-title="HQ BDIX", STAR GOLD HD
-http://103.141.2.37:25461/live/web/web/555.ts
-#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="HQ BDIX", JALSHA MOVIES HD
-http://103.141.2.37:25461/live/web/web/600.ts
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png" group-title="HQ BDIX", COLORS BANGLA CINEMA
-http://103.141.2.37:25461/live/web/web/599.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Zee_Bangla_Cinema_2022.png/revision/latest?cb=20230706222511" group-title="HQ BDIX", ZEE BANGLA CINEMA
-http://103.141.2.37:25461/live/web/web/598.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://i.ibb.co/NjzDQ6K/Picsart-23-06-07-12-34-53-772.png" group-title="HQ BDIX", SONY PIX HD
+#EXTINF:-1 tvg-id="" tvg-name="DBC" tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png" group-title="BDIX CHANNELS", DBC NEWS
+http://103.109.56.116/live/funtime108/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg" group-title="BDIX CHANNELS", NEWS 24
+http://103.109.56.116/live/funtime109/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/JamunaTV_logo.jpg" group-title="BDIX CHANNELS", JAMUNA TV
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="BDIX CHANNELS", DISCOVERY HD
+http://103.109.56.116/live/funtime106/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg" group-title="BDIX CHANNELS", EKATTOR
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BDIX CHANNELS", SOMOY TV
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BDIX CHANNELS", MAASRANGA TV
+http://103.109.56.116/live/skyfeed1013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qgQHWnQ/Picsart-23-06-07-11-15-11-409.png" group-title="BDIX CHANNELS", INDEPENDENT TV
+http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png" group-title="BDIX CHANNELS", DEEPTO TV
+http://103.109.56.116/live/skyfeed1011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/59MpX6W/Picsart-23-06-07-11-22-47-756.png" group-title="BDIX CHANNELS", BANGLAVISION
+http://103.109.56.116/live/skyfeed1009/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="BDIX CHANNELS", NICK
+http://103.109.56.116/live/funtime110/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POGO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Pogo_2004.svg/revision/latest?cb=20151205150720" group-title="BDIX CHANNELS", POGO
+http://103.109.56.116/live/skyfeed1019/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="BDIX CHANNELS", ANIMAL PLANET
+http://103.109.56.116/live/funtime1025/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="BDIX CHANNELS", ZEE BANGLA HD
+http://103.109.56.116/live/funtime111/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="BDIX CHANNELS", SONY AATH
+http://103.109.56.116/live/skyfeed1016/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="BDIX CHANNELS", STAR JALSHA HD
+http://103.109.56.116/live/funtime112/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?" group-title="BDIX CHANNELS", COLORS BANGLA HD
+http://103.109.56.116/live/skyfeed1017/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="BDIX CHANNELS", GAZI TV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="BDIX CHANNELS", T SPORTS HD
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/nwLphg7/Picsart-23-06-07-12-47-37-348.png" group-title="BDIX CHANNELS", SONY SPORTS HD
+http://103.109.56.116/live/skyfeed1007/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/C1KMSXy/Picsart-23-06-07-12-51-51-011.png" group-title="BDIX CHANNELS", SONY SPORTS 2 HD
+http://103.109.56.116/live/skyfeed1008/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/340?cb=20221025091902" group-title="BDIX CHANNELS", SONY SPORTS 5 HD
+http://103.109.56.116/live/skyfeed1001/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="BDIX CHANNELS", STAR SPORTS 1 HD
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png"" group-title="BDIX CHANNELS", STAR SPORTS 2 HD
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png"" group-title="BDIX CHANNELS", STAR SPORTS SELECT 1 HD
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="BDIX CHANNELS", PTV SPORTS
+http://103.109.56.116/live/funtime107/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3ytPyZN/Picsart-23-06-07-15-31-28-702.png" group-title="BDIX CHANNELS", KSA
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/3ytPyZN/Picsart-23-06-07-15-31-28-702.png" group-title="BDIX CHANNELS", SUNNAH
+http://103.109.56.116/live/skyfeed1024/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="https://i.ibb.co/GcqhBhG/Picsart-23-06-07-11-49-36-549.png" group-title="HQ BDIX", SANGEET BANGLA
-http://103.141.2.37:25461/live/web/web/604.ts
-#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png" group-title="HQ BDIX", 9XM
-http://103.141.2.37:25461/live/web/web/557.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="HQ BDIX", GAZI TV
-http://103.141.2.37:25461/live/web/web/592.ts
-#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="HQ BDIX", T SPORTS HD
-http://103.141.2.37:25461/live/web/web/586.ts
-#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="HQ BDIX", PTV SPORTS
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="HQ BDIX", STAR SPORTS 1 HD
-http://103.141.2.37:25461/live/web/web/580.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="HQ BDIX", STAR SPORTS 2 HD
-http://103.141.2.37:25461/live/web/web/581.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="HQ BDIX", STAR SPORTS 3
-http://103.141.2.37:25461/live/web/web/578.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/nwLphg7/Picsart-23-06-07-12-47-37-348.png" group-title="HQ BDIX", SONY TEN 1 HD
-http://103.141.2.37:25461/live/web/web/585.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/ZcksfGS/Picsart-23-06-07-12-47-16-858.png" group-title="HQ BDIX", SONY TEN 2 HD
-http://103.141.2.37:25461/live/web/web/584.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/z2SLxGk/Picsart-23-06-07-12-48-08-902.png" group-title="HQ BDIX", SONY TEN 3
-http://103.141.2.37:25461/live/web/web/582.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="HQ BDIX", SONY SIX HD
-http://103.141.2.37:25461/live/web/web/577.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="HQ BDIX", STAR SPORTS SELECT 1 HD
-http://103.141.2.37:25461/live/web/web/579.ts
-#EXTINF:-1 tvg-id="" tvg-name="STAR Sports SELECT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="HQ BDIX", STAR SPORTS SELECT 2 HD
-http://103.141.2.37:25461/live/web/web/583.ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTS 18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Sports18.png" group-title="HQ BDIX", SPORTS 18
 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/WfB7NQY/Picsart-23-06-07-12-19-32-957.png" group-title="HQ BDIX", NATIONAL GEOGRAPHIC HD
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/3cpFQ62/Picsart-23-06-07-12-29-50-426.png" group-title="HQ BDIX", BBC EARTH HD
-http://103.141.2.37:25461/live/web/web/564.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="HQ BDIX", DISCOVERY
-http://103.141.2.37:25461/live/web/web/567.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="HQ BDIX", ANIMAL PLANET HD
-http://103.141.2.37:25461/live/web/web/566.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="HQ BDIX", ANIMAL PLANET WILD
-http://103.141.2.37:25461/live/web/web/568.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="HQ BDIX", ANIMAL PLANET HD
-http://103.141.2.37:25461/live/web/web/569.ts
-#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg/revision/latest?cb=20180531123424" group-title="HQ BDIX", MOVIES NOW
-http://103.141.2.37:25461/live/web/web/562.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png/revision/latest/scale-to-width-down/250?cb=20110928174828" group-title="HQ BDIX", STAR WORLD HD
-http://103.141.2.37:25461/live/web/web/560.ts
-#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="HQ BDIX", MNX HD
-http://103.141.2.37:25461/live/web/web/565.ts
-#EXTINF:-1 tvg-id="" tvg-name="MNX PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="HQ BDIX", MNX+
-http://103.141.2.37:25461/live/web/web/571.ts
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://i.ibb.co/NjzDQ6K/Picsart-23-06-07-12-34-53-772.png" group-title="HQ BDIX", SONY PIX HD
-http://103.141.2.37:25461/live/web/web/561.ts
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.ibb.co/kqbnDVX/Picsart-23-07-01-22-11-33-076.png" group-title="HQ BDIX", TRAVEL XP HD
-http://103.141.2.37:25461/live/web/web/593.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="HQ BDIX", SE | DISCOVERY
-http://103.141.2.37:25461/live/web/web/540.ts
-#EXTINF:-1 tvg-id="" tvg-name="MNX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="HQ BDIX", MNX HD
-http://103.141.2.37:25461/live/web/web/574.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="HQ BDIX", STAR MOVIES HD
-http://103.141.2.37:25461/live/web/web/563.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Star_World_HD_India.png/revision/latest/scale-to-width-down/250?cb=20110928174828" group-title="HQ BDIX", STAR WORLD HD
-http://103.141.2.37:25461/live/web/web/575.ts
- #EXTINF:-1 tvg-id="" tvg-name="BBC WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/BBC_News_2022_%28Alt%29.svg" group-title="HQ BDIX", BBC WORLD
-http://103.141.2.37:25461/live/web/web/573.ts
-#EXTINF:-1 tvg-id="" tvg-name="MADANI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Madani_TV.jpg" group-title="HQ BDIX", MADANI TV
 
-#EXTINF:-1 tvg-id="" tvg-name="QURAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/IRIB_Quran_%28old%29.png" group-title="HQ BDIX", QURAN TV
+
+
+
+
+
 
 
 
