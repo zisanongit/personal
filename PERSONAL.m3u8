@@ -3,8 +3,8 @@
 https://github.com/iptv-org/epg/blob/master/tests%2Fcommands%2Fepg%2Fgrab.test.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="THELIGHT" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="LIVE EVENT", THELIGHT
-http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BPL" tvg-logo="https://images.prothomalo.com/prothomalo-english%2F2021-12%2F36114f8d-36a2-4674-b4ec-4e0c10695e19%2F5906d988cbd5eb90d1c433ebdac1f926.jpg?auto=format%2Ccompress&fmt=webp&dpr=1.0&format=webp&w=376" group-title="LIVE EVENT", BPL 
+http://103.141.2.37:25461/live/web/web/592
 #EXTINF:-1 tvg-id="" tvg-name="BIG BOSS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Bigg_Boss_Hindi_14.jpg/revision/latest?cb=20210809010453" group-title="LIVE EVENT", BIGG BOSS
 https://prod-ent-live-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDIX" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="LIVE EVENT", LIVE BDIX EVENT
@@ -428,7 +428,7 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="SPORTS CHANNELS", GAZI TV
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="SPORTS CHANNELS", T SPORTS HD
-http://chanel.dekhaott.com/Tsportshd/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS CHANNELS", PTV SPORTS
 http://himel-op.ddns.net/PTV-Sports/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS CHANNELS", DUBAI SPORTS HD
@@ -705,6 +705,8 @@ https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8|User-Agent=bdsajib
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA HD (BD)
 https://bongohub.pw/bioscope.php?cc=zee-cinema-hd
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA HD (IN)
+http://103.132.181.118:82/play/a00i
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMALU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Zeecinemaluenglish.png" group-title="MOVIES CHANNELS", ZEE CINEMALU
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/zeecinemalu.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Zee_Bollywood.jpg" group-title="MOVIES CHANNELS", ZEE BOLLYWOOD 
