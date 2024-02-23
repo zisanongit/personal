@@ -1,12 +1,12 @@
-#EXTM3U  x-tvg-url="https://github.com/iptv-org/epg/blob/master/tests%2Fcommands%2Fepg%2Fgrab.test.ts"
+#EXTM3U  x-tvg-url=""
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BPL" tvg-logo="https://www.bplt20.com.bd/images/bpl-logo-2024.gif" group-title="LIVE EVENT", BPL 
-http://103.141.2.37:25461/live/web/web/592.m3u8
+http://38.96.178.201/live/GaziTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BPL" tvg-logo="https://www.bplt20.com.bd/images/bpl-logo-2024.gif" group-title="LIVE EVENT", BPL 
-http://113.212.111.246:8080/hls/col12.m3u8
+http://103.142.80.22:8080/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BPL" tvg-logo="https://www.bplt20.com.bd/images/bpl-logo-2024.gif" group-title="LIVE EVENT", BPL (GTV)
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BPL" tvg-logo="https://www.bplt20.com.bd/images/bpl-logo-2024.gif" group-title="LIVE EVENT", BPL (TSPORTS)
@@ -212,7 +212,7 @@ http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="http://logo.protv.cc/picons/logos/BTV-NATIONAL .png" group-title="BANGLADESHI CHANNELS", BTV
 
 #EXTINF:-1 tvg-id="" tvg-name="BTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BTV-BANGLA.png" group-title="BANGLADESHI CHANNELS", BTV HD
-https://bongohub.pw/bioscope.php?cc=btv-hd
+
 #EXTINF:-1 tvg-id="" tvg-name="BTV WORLD" tvg-logo="https://i.ibb.co/NtQ4fMf/Picsart-23-06-12-22-23-10-612.png" group-title="BANGLADESHI CHANNELS", BTV WORLD
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BANGLADESHI CHANNELS", SOMOY TV
@@ -306,7 +306,7 @@ https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://i.ibb.co/Ln4M5vp/Picsart-23-06-07-11-11-50-301.png" group-title="BANGLADESHI CHANNELS", MOHONA TV
 https://livess.jagobd.com.bd/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg" group-title="BANGLADESHI CHANNELS", EKATTOR TV
-https://bongohub.pw/bioscope.php?cc=ekattur-tv
+
 #EXTINF:-1 tvg-id="" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="BANGLADESHI CHANNELS", NEXUS TV HD
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PEACE TV" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png" group-title="BANGLADESHI CHANNELS", PEACE TV
@@ -346,41 +346,40 @@ http://103.77.218.14:8080/memfs/97472e6e-6ed5-4b29-a19b-9bf0c75f6446.m3u8
 http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="TENTV" tvg-logo="https://logowik.com/content/uploads/images/network-ten-old7521.logowik.com.webp" group-title="BANGLADESHI CHANNELS", TEN IP TV
 https://iptvbd.live/test/1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png" group-title="BANGLADESHI CHANNELS", GLOBAL TV
-https://bongohub.pw/bioscope.php?cc=global-tv
-#EXTINF:-1 tvg-id="" tvg-name="EKHON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESHI CHANNELS", EKHON TV
-https://bongohub.pw/bioscope.php?cc=ekhon-tv
 #EXTINF:-1 tvg-id="" tvg-name="ANANDA TV" tvg-logo="https://i.ibb.co/0Xhj6yK/Picsart-23-06-07-10-11-58-213.png" group-title="BANGLADESHI CHANNELS", ANANDA TV
-https://bongohub.pw/bioscope.php?cc=ananda-tv
-#EXTINF:-1 tvg-id="" tvg-name="ASIAN TV" tvg-logo="https://i.ibb.co/BBhfYpX/Picsart-23-06-07-10-23-04-121.png" group-title="BANGLADESHI CHANNELS", ASIAN TV
-https://bongohub.pw/bioscope.php?cc=asian-tv-hd
-#EXTINF:-1 tvg-id="" tvg-name="BANGLA TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="BANGLADESHI CHANNELS", BANGLA TV
-https://bongohub.pw/bioscope.php?cc=bangla-tv
-#EXTINF:-1 tvg-id="" tvg-name="BANGLAVISION" tvg-logo="https://i.ibb.co/59MpX6W/Picsart-23-06-07-11-22-47-756.png" group-title="BANGLADESHI CHANNELS", BANGLAVISION
-https://bongohub.pw/bioscope.php?cc=bangla-vision
-#EXTINF:-1 tvg-id="" tvg-name="BIJOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="BANGLADESHI CHANNELS", BIJOY TV
-https://bongohub.pw/bioscope.php?cc=bijoy-tv
-#EXTINF:-1 tvg-id="" tvg-name="BOISHAKHI TV" tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png" group-title="BANGLADESHI CHANNELS", BOISHAKHI TV
-https://bongohub.pw/bioscope.php?cc=boishakhi-tv
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="BANGLADESHI CHANNELS",  CHANNEL I
-https://bongohub.pw/bioscope.php?cc=channel-i
-#EXTINF:-1 tvg-id="" tvg-name="DBC NEWS" tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png" group-title="BANGLADESHI CHANNELS", DBC NEWS
-https://bongohub.pw/bioscope.php?cc=dbc-news
-#EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://i.ibb.co/Ln4M5vp/Picsart-23-06-07-11-11-50-301.png" group-title="BANGLADESHI CHANNELS", MOHONA TV
-https://bongohub.pw/bioscope.php?cc=mohona-tv
-#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BANGLADESHI CHANNELS", MY TV
-https://bongohub.pw/bioscope.php?cc=my-tv
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/95/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%A8%E0%A7%AA_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%29_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="BANGLADESHI CHANNELS", NEWS 24
-https://bongohub.pw/bioscope.php?cc=news-24-hd
-#EXTINF:-1 tvg-id="" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="BANGLADESHI CHANNELS", NTV 
-https://bongohub.pw/bioscope.php?cc=ntv
-#EXTINF:-1 tvg-id="" tvg-name="R TV" tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png" group-title="BANGLADESHI CHANNELS", R TV
-https://bongohub.pw/bioscope.php?cc=rtv
-#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://i.ibb.co/jhPSkLR/Picsart-23-06-07-10-30-19-289.png" group-title="BANGLADESHI CHANNELS", SA TV
-https://bongohub.pw/bioscope.php?cc=sa-tv
-#EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BANGLADESHI CHANNELS", SOMOY TV
-https://bongohub.pw/bioscope.php?cc=somoy-tv
 
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png" group-title="BANGLADESHI CHANNELS", GLOBAL TV
+
+#EXTINF:-1 tvg-id="" tvg-name="EKHON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESHI CHANNELS", EKHON TV
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN TV" tvg-logo="https://i.ibb.co/BBhfYpX/Picsart-23-06-07-10-23-04-121.png" group-title="BANGLADESHI CHANNELS", ASIAN TV
+
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="BANGLADESHI CHANNELS", BANGLA TV
+
+#EXTINF:-1 tvg-id="" tvg-name="BANGLAVISION" tvg-logo="https://i.ibb.co/59MpX6W/Picsart-23-06-07-11-22-47-756.png" group-title="BANGLADESHI CHANNELS", BANGLAVISION
+
+#EXTINF:-1 tvg-id="" tvg-name="BIJOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="BANGLADESHI CHANNELS", BIJOY TV
+
+#EXTINF:-1 tvg-id="" tvg-name="BOISHAKHI TV" tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png" group-title="BANGLADESHI CHANNELS", BOISHAKHI TV
+
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="BANGLADESHI CHANNELS",  CHANNEL I
+
+#EXTINF:-1 tvg-id="" tvg-name="DBC NEWS" tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png" group-title="BANGLADESHI CHANNELS", DBC NEWS
+
+#EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://i.ibb.co/Ln4M5vp/Picsart-23-06-07-11-11-50-301.png" group-title="BANGLADESHI CHANNELS", MOHONA TV
+
+#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BANGLADESHI CHANNELS", MY TV
+
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/95/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%A8%E0%A7%AA_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%29_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="BANGLADESHI CHANNELS", NEWS 24
+
+#EXTINF:-1 tvg-id="" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="BANGLADESHI CHANNELS", NTV 
+
+#EXTINF:-1 tvg-id="" tvg-name="R TV" tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png" group-title="BANGLADESHI CHANNELS", R TV
+
+#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://i.ibb.co/jhPSkLR/Picsart-23-06-07-10-30-19-289.png" group-title="BANGLADESHI CHANNELS", SA TV
+
+#EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BANGLADESHI CHANNELS", SOMOY TV
+https://nayeem-parvez.pw/api/bongo.m3u8?id=somoy-tv
 
 
 
@@ -556,7 +555,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:-1 tvg-id="" tvg-name="DD NATIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/DD-National_2022.png/revision/latest?cb=20230610222358" group-title="INDIAN CHANNELS", DD NATIONAL
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="INDIAN CHANNELS", ZEE BANGLA HD [2]
-
+http://mag.trexlive.me:80/Michael88/Michael88/225796
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Star_Bharat_2022.png" group-title="INDIAN CHANNELS", STAR BHARAT
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8?token=test
 #EXTINF: -1 tvg-id="ts406" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="INDIAN CHANNELS", MTV HD Plus
@@ -630,48 +629,6 @@ http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3
 https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB
-https://cdn.retosprime.com/ayna.php?id=80&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB HD
-https://cdn.retosprime.com/ayna.php?id=77&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SET SD
-https://cdn.retosprime.com/ayna.php?id=81&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SET HD
-https://cdn.retosprime.com/ayna.php?id=73&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="INDIAN CHANNELS", SONY AATH
-https://cdn.retosprime.com/ayna.php?id=86&e=.m3u8|User-Agent=bdsajib
-
-#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="https://i.ibb.co/xzN3Yb2/Picsart-23-06-07-12-30-14-157.png" group-title="INDIAN CHANNELS", SONY PAL
-https://cdn.retosprime.com/ayna.php?id=87&e=.m3u8|User-Agent=bdsajib
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="MOVIES CHANNELS", DHINCHAAK
-https://cdn.retosprime.com/ayna.php?id=153&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="MOVIES CHANNELS", GOLDMINES
-https://cdn.retosprime.com/ayna.php?id=154&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="MOVIES CHANNELS", GOLDMINES MOVIES
-https://cdn.retosprime.com/ayna.php?id=156&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="MOVIES CHANNELS", GOLDMINES BOLLYWOOD
-https://cdn.retosprime.com/ayna.php?id=155&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="MOVIES CHANNELS", DHAMAKA MOVIES
-https://cdn.retosprime.com/ayna.php?id=191&e=.m3u8|User-Agent=bdsajib
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX HD 
-https://cdn.retosprime.com/ayna.php?id=71&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://i.ibb.co/pXNNWYD/Picsart-23-06-07-12-52-23-332.png" group-title="MOVIES CHANNELS", SONY MAX 2
-https://cdn.retosprime.com/ayna.php?id=82&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.ibb.co/JFTfGm4/Picsart-23-06-07-12-25-34-072.png" group-title="MOVIES CHANNELS", B4U KADAK
-https://cdn.retosprime.com/ayna.php?id=149&e=.m3u8|User-Agent=bdsajib
-#EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="MOVIES CHANNELS", BFLIX MOVIES
-https://cdn.retosprime.com/ayna.php?id=163&e=.m3u8|User-Agent=bdsajib
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS CHANNELS", DURONTO TV
-https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8|User-Agent=bdsajib
-
 
 
 
@@ -708,6 +665,60 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAMIL TV" tvg-logo="https://www.dlf.pt/dfpng/middlepng/560-5607081_tamil-tv-channel-logos-png-download-tamil-tv.png" group-title="MOVIES CHANNELS", TAMIL TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SURYA MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Surya_movies.jpg/revision/latest?cb=20180318054520" group-title="MOVIES CHANNELS", SURYA MOVIES
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=80&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB HD
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=77&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SET SD
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=81&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SET HD
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=73&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="INDIAN CHANNELS", SONY AATH
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=86&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" tvg-logo="https://i.ibb.co/xzN3Yb2/Picsart-23-06-07-12-30-14-157.png" group-title="INDIAN CHANNELS", SONY PAL
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=87&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="INDIAN CHANNELS", SONY WAH
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=78&e=.m3u8|User-Agent=test
+
+#EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="MOVIES CHANNELS", DHINCHAAK
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=152&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="MOVIES CHANNELS", GOLDMINES
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=153&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="MOVIES CHANNELS", GOLDMINES MOVIES
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=155&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="MOVIES CHANNELS", GOLDMINES BOLLYWOOD
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=154&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="MOVIES CHANNELS", DHAMAKA MOVIES
+https://cdn.retosprime.com/ayna.php?id=191&e=.m3u8|User-Agent=bdsajib
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=90&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX HD 
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=71&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://i.ibb.co/pXNNWYD/Picsart-23-06-07-12-52-23-332.png" group-title="MOVIES CHANNELS", SONY MAX 2
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=82&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.ibb.co/JFTfGm4/Picsart-23-06-07-12-25-34-072.png" group-title="MOVIES CHANNELS", B4U KADAK
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=148&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="MOVIES CHANNELS", BFLIX MOVIES
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=162&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA HD
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=103&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="MOVIES CHANNELS", ZEE ACTION
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=109&e=.m3u8|User-Agent=test
+#EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=93&e=.m3u8|User-Agent=test
+
+#EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS CHANNELS", DURONTO TV
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=36&e=.m3u8|User-Agent=test
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JCGcTGk/Picsart-23-06-07-12-35-16-295.png" group-title="KIDS CHANNELS", SONY YAY
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=70&e=.m3u8|User-Agent=test
+
+
 
 
 
@@ -754,7 +765,8 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS CHANNELS", DURONTO TV
+http://starshare.live:8080/live/22552255/22552255/433.ts
 #EXTINF:-1 tvg-id="" tvg-name="KIDS CREATION" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="KIDS CHANNELS", KIDS CREATION
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="KIDS CHANNELS", DISNEY HINDI
@@ -762,7 +774,7 @@ https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JCGcTGk/Picsart-23-06-07-12-35-16-295.png" group-title="KIDS CHANNELS", SONY YAY
 https://bongohub.pw/bioscope.php?cc=sony-yay-live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="KIDS CHANNELS", KHUSHBOO BANGLA
-http://103.223.14.56:8000/play/a0ti/index.m3u8
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=156&e=.m3u8|User-Agent=test
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="KIDS CHANNELS", NICK BANGLA
 https://bongohub.pw/bioscope.php?cc=nickelodeon
 #EXTINF:-1 tvg-id="" tvg-name="SONIC HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Nickelodeon_Sonic_logo.png" group-title="KIDS CHANNELS", SONIC HINDI
