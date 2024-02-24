@@ -152,9 +152,6 @@ http://aanax.com:8080/live/F31513/0a3204ef/296842.ts
 https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png" group-title="BANGLADESHI CHANNELS", DEEPTO TV
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="BANGLADESHI CHANNELS", GAZI TV
-https://cdn.sajeeb.online/GTV/video.m3u8?token=843d5e6367000c3afd4f8881f296604f5220b6c2-b6c66994ef14901a6debcf09abc240dd-1704064296-1704053496
-#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="BANGLADESHI CHANNELS", T SPORTS HD
 
 #EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="https://i.ibb.co/0rR6nG7/Picsart-23-06-07-10-32-27-069.png" group-title="BANGLADESHI CHANNELS", EKUSHEY TV
 https://livess.jagobd.com.bd/live-orgin/ekusheytv-8-org.stream/chunks.m3u8
@@ -174,11 +171,25 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TENTV" tvg-logo="https://logowik.com/content/uploads/images/network-ten-old7521.logowik.com.webp" group-title="BANGLADESHI CHANNELS", TEN IP TV
 https://iptvbd.live/test/1080.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BANGLADESHI CHANNELS", SOMOY TV
+
+#EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV" tvg-logo="https://i.ibb.co/DgY34qb/Nagorik-TV-Logo.png" group-title="BANGLADESHI CHANNELS", NAGORIK TV
+
+#EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="BANGLADESHI CHANNELS", GAZI TV
+
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="BANGLADESHI CHANNELS", T SPORTS HD
+
 #EXTINF:-1 tvg-id="" tvg-name="ANANDA TV" tvg-logo="https://i.ibb.co/0Xhj6yK/Picsart-23-06-07-10-11-58-213.png" group-title="BANGLADESHI CHANNELS", ANANDA TV
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png" group-title="BANGLADESHI CHANNELS", GLOBAL TV
 
 #EXTINF:-1 tvg-id="" tvg-name="EKHON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESHI CHANNELS", EKHON TV
+
+#EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://i.ibb.co/7KyTYrM/Picsart-23-06-07-11-13-27-854.png" group-title="BANGLADESHI CHANNELS", JAMUNA TV
+
+#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT" tvg-logo="https://i.ibb.co/qgQHWnQ/Picsart-23-06-07-11-15-11-409.png" group-title="BANGLADESHI CHANNELS", INDEPENDENT
 
 #EXTINF:-1 tvg-id="" tvg-name="ASIAN TV" tvg-logo="https://i.ibb.co/BBhfYpX/Picsart-23-06-07-10-23-04-121.png" group-title="BANGLADESHI CHANNELS", ASIAN TV
 
@@ -202,8 +213,10 @@ https://iptvbd.live/test/1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="BANGLADESHI CHANNELS", NTV 
 
-#EXTINF:-1 tvg-id="" tvg-name="R TV" tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png" group-title="BANGLADESHI CHANNELS", R TV
+#EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="https://i.ibb.co/0rR6nG7/Picsart-23-06-07-10-32-27-069.png" group-title="BANGLADESHI CHANNELS", EKUSHEY TV
 
+#EXTINF:-1 tvg-id="" tvg-name="R TV" tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png" group-title="BANGLADESHI CHANNELS", R TV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://i.ibb.co/jhPSkLR/Picsart-23-06-07-10-30-19-289.png" group-title="BANGLADESHI CHANNELS", SA TV
 
 #EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BANGLADESHI CHANNELS", SOMOY TV
