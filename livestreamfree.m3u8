@@ -90,7 +90,7 @@ https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RAJDHANI TV" tvg-logo="https://i.ibb.co/QJX90Rv/logo.jpghttps://i.ibb.co/KK7Zkr7/1665000837logo.png" group-title="BANGLADESHI CHANNELS", RAJDHANI TV
 https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKHON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESHI CHANNELS", EKHON TV
-https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JONMOBHUMI TV" tvg-logo="https://www.jonmobhumimedia.com/web/images/logo/Final-Red-Logo.png" group-title="BANGLADESHI CHANNELS", JONMOBHUMI TV
 https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CLOSAL TV" tvg-logo="https://colossalai.org/img/logo.svg" group-title="BANGLADESHI CHANNELS", CLOSAL TV
@@ -334,11 +334,11 @@ https://hls.rtasport.live/hls/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="INDIAN CHANNELS", ZEE BANGLA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="INDIAN CHANNELS", SONY AATH
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="INDIAN CHANNELS", STAR JALSHA
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?" group-title="INDIAN CHANNELS", COLORS BANGLA HD
 http://95.111.193.211:8106/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ENTER 10 BANGLA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="INDIAN CHANNELS", ENTER 10 BANGLA
@@ -358,9 +358,9 @@ https://epiconvh.s.llnwi.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SONY ENTERTAINMENT TELEVISION HD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest?cb=20191222192526" group-title="INDIAN CHANNELS", ZEE TV
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Zee_TV_HD_2017.svg/revision/latest/scale-to-width-down/250?cb=20210514173308" group-title="INDIAN CHANNELS", ZEE TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY SAB" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY SAB HD" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB HD
@@ -370,15 +370,15 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/2/SONY-PAL/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_WAH.png" group-title="INDIAN CHANNELS", SONY WAH
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Zee_Anmol_logo.png" group-title="INDIAN CHANNELS", ZEE ANMOL
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/zeeanmol.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AND TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png" group-title="INDIAN CHANNELS", AND TV HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Zee_Bangla_Cinema_2022.png/revision/latest?cb=20230706222511" group-title="INDIAN CHANNELS", ZEE BANGLA CINEMA
 https://tv1.instafarm.live/getm3u8/685/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Zing_2022.svg/revision/latest?cb=20220525063636" group-title="INDIAN CHANNELS", ZING
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/zing.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Zeetamil_new.png" group-title="INDIAN CHANNELS", ZEE TAMIL
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="&FLIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Andflix.png" group-title="INDIAN CHANNELS", &FLIX
 http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INDIAN CHANNELS", DISCOVERY HD
@@ -394,7 +394,7 @@ http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="INDIAN CHANNELS", STAR JALSHA HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="INDIAN CHANNELS", ZEE BANGLA HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="INDIAN CHANNELS", SONY AATH
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png" group-title="INDIAN CHANNELS", STAR PLUS
@@ -402,9 +402,9 @@ http://195.181.169.78:8899/star_plus/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?" group-title="INDIAN CHANNELS", COLORS BANGLA HD
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71035
 #EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/800px-Zee_news.svg.png" group-title="INDIAN CHANNELS", ZEE NEWS
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ZEE 24 GHONTA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest?cb=20210509174741" group-title="INDIAN CHANNELS", ZEE 24 GHONTA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Times_Now.png/revision/latest?cb=20110930232549" group-title="INDIAN CHANNELS", TIMES NOW
 https://d3859l818t7v85.cloudfront.net/hlslive/Admin/px0219322/live/WatchoZee/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ND TV" tvg-logo="https://i.ibb.co/KmpmJMc/Picsart-23-06-25-21-51-16-448.png" group-title="INDIAN CHANNELS", ND TV
@@ -440,40 +440,39 @@ http://103.120.172.74:5200
 
 
 #EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="MOVIES CHANNELS", JALSHA MOVIES HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX
-http://103.120.172.74:1150
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX HD" tvg-logo="https://i.ibb.co/qgX6JfT/Picsart-23-06-07-12-52-40-872.png" group-title="MOVIES CHANNELS", SONY MAX HD
-http://148.113.5.31:8106/play/a00x/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2" tvg-logo="https://i.ibb.co/pXNNWYD/Picsart-23-06-07-12-52-23-332.png" group-title="MOVIES CHANNELS", SONY MAX 2
-http://208.86.19.13:81/7300.stream/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SONY PIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png/revision/latest?cb=20221023221602" group-title="MOVIES CHANNELS", SONY PIX
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://i.ibb.co/NjzDQ6K/Picsart-23-06-07-12-34-53-772.png" group-title="MOVIES CHANNELS", SONY PIX HD
 http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/n02XXG4/Picsart-23-06-07-18-25-44-626.png" group-title="MOVIES CHANNELS", STAR GOLD THRILLS
-http://manik-sportshin2.zapto.org:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES CHANNELS", B4U MOVIES INDIA
-https://tv1.instafarm.live/getm3u8/182/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BFLIX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="MOVIES CHANNELS", BFLIX MOVIES
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="MOVIES CHANNELS", ZEE ACTION
-https://tv1.instafarm.live/getm3u8/488/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA HD
-https://tv1.instafarm.live/getm3u8/165/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Anmol_Cinema.png/revision/latest?cb=20210826143243" group-title="MOVIES CHANNELS", ZEE ANMOL CINEMA
-https://tv1.instafarm.live/getm3u8/415/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AND PICTURES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg" group-title="MOVIES CHANNELS", AND PICTURES
 
 #EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
-https://tv1.instafarm.live/getm3u8/185/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="MOVIES CHANNELS", COLORS CINEPLEX
 http://170.254.18.107/CINEPLEX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="MOVIES CHANNELS", COLORS CINEPLEX HD
@@ -485,9 +484,9 @@ http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3
 https://live.sunbanglacinema.in/sunbanglacinema/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMALU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Zeecinemaluenglish.png" group-title="MOVIES CHANNELS", ZEE CINEMALU
-https://tv1.instafarm.live/getm3u8/413/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Zee_Bollywood.jpg" group-title="MOVIES CHANNELS", ZEE BOLLYWOOD 
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="MOVIES CHANNELS", STAR MOVIES HD
 http://112.196.61.212:9292/STAR_MOVIES_FHD_VIDECON/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="MOVIES CHANNELS", MBC BOLLYWOOD HD
@@ -600,17 +599,17 @@ http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA HD (BD)
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA HD (IN)
-http://213.13.16.138/shls/LIVE$ZEE_CINEMA/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="MOVIES CHANNELS", COLORS CINEPLEX HD
 
 #EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
-https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest/scale-to-width-down/250?cb=20211216003639" group-title="MOVIES CHANNELS", STAR GOLD SELECT
 
 #EXTINF:-1 tvg-id="" tvg-name="TAMIL TV" tvg-logo="https://www.dlf.pt/dfpng/middlepng/560-5607081_tamil-tv-channel-logos-png-download-tamil-tv.png" group-title="MOVIES CHANNELS", TAMIL TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="MOVIES CHANNELS", STAR MOVIES HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
 
 
 
@@ -632,11 +631,11 @@ https://bdtubelive.xyz/yupptv-hd.m3u8?id=wow-kidz-hindi
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY HINDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="KIDS CHANNELS", DISNEY HINDI
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JCGcTGk/Picsart-23-06-07-12-35-16-295.png" group-title="KIDS CHANNELS", SONY YAY
-https://bongodrive.pw/bioscope.m3u8?id=sony-yay-live
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="KIDS CHANNELS", KHUSHBOO BANGLA
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="KIDS CHANNELS", NICK BANGLA
-https://tv1.instafarm.live/getm3u8/545/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SONIC HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Nickelodeon_Sonic_logo.png" group-title="KIDS CHANNELS", SONIC HINDI
 http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
@@ -811,107 +810,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 
 
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="PGPLEX", SOMOY TV
-http://pgplex.net:8080/SomoyTv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="PGPLEX", MAASRANGA TV
-
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="PGPLEX",  CHANNEL I
-http://pgplex.net:8080/ChannelI/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://i.ibb.co/7KyTYrM/Picsart-23-06-07-11-13-27-854.png" group-title="PGPLEX", JAMUNA TV
-http://pgplex.net:8080/JamunaTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT" tvg-logo="https://i.ibb.co/qgQHWnQ/Picsart-23-06-07-11-15-11-409.png" group-title="PGPLEX", INDEPENDENT
-http://pgplex.net:8080/IndependentTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EKATTOR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png" group-title="PGPLEX", EKATTOR
-
-#EXTINF:-1 tvg-id="" tvg-name="ATN BANGLA" tvg-logo="https://i.ibb.co/D7sMcgj/Picsart-23-06-07-11-27-15-922.png" group-title="PGPLEX", ATN BANGLA
-
-#EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png" group-title="PGPLEX", DEEPTO TV
-
-#EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV" tvg-logo="https://i.ibb.co/DgY34qb/Nagorik-TV-Logo.png" group-title="PGPLEX", NAGORIK TV
-http://pgplex.net:8080/NagorikTV/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="https://i.ibb.co/0rR6nG7/Picsart-23-06-07-10-32-27-069.png" group-title="PGPLEX", EKUSHEY TV
-http://pgplex.net:8080/EkusheyTv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="PGPLEX", NICK
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Y7HsgD5/Picsart-23-06-25-22-02-24-869.png" group-title="PGPLEX", CN ARABIC
-
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="PGPLEX", STAR JALSHA HD
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="https://i.ibb.co/YLmSMgN/Picsart-23-07-13-01-08-01-670.png" group-title="PGPLEX", ZEE BANGLA HD
-http://pgplex.net:8080/ZeeBanglaHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="PGPLEX", SONY AATH
-
-#EXTINF:-1 tvg-id="" tvg-name="SUN BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="PGPLEX", SUN BANGLA
-
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?" group-title="PGPLEX", COLORS BANGLA HD
-http://pgplex.net:8080/ColorsBangla/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="PGPLEX", COLORS HD
-http://pgplex.net:8080/ColorsHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png" group-title="PGPLEX", SONY ENTERTAINMENT TELEVISION HD
-http://pgplex.net:8080/SonyTVHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png" group-title="PGPLEX", STAR PLUS HD
-http://pgplex.net:8080/StarPlusHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg" group-title="PGPLEX", ZEE TV
-
-#EXTINF:-1 tvg-id="" tvg-name="ENTER 10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg" group-title="PGPLEX", ENTER 10 BANGLA
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SONY MAX HD" tvg-logo="https://i.ibb.co/qgX6JfT/Picsart-23-06-07-12-52-40-872.png" group-title="PGPLEX", SONY MAX HD
-http://pgplex.net:8080/SonyMaxHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="PGPLEX", GOLDMINES 
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg" group-title="PGPLEX", ZEE CINEMA HD
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="PGPLEX", ZEE ACTION
-http://pgplex.net:8080/ZeeAction/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="PGPLEX", AND PICTURES HD
-http://pgplex.net:8080/AndPicturesHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="PGPLEX", COLORS CINEPLEX
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg" group-title="PGPLEX", STAR GOLD HD
-http://pgplex.net:8080/StarGoldHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="PGPLEX", JALSHA MOVIES HD
-
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png" group-title="PGPLEX", COLORS BANGLA CINEMA
-
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Zee_Bangla_Cinema_2022.png/revision/latest?cb=20230706222511" group-title="PGPLEX", ZEE BANGLA CINEMA
-http://pgplex.net:8080/ZeeBanglaCinema/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://i.ibb.co/NjzDQ6K/Picsart-23-06-07-12-34-53-772.png" group-title="PGPLEX", SONY PIX HD
-
-#EXTINF:-1 tvg-id="" tvg-name="SANGEET BANGLA" tvg-logo="https://i.ibb.co/GcqhBhG/Picsart-23-06-07-11-49-36-549.png" group-title="PGPLEX", SANGEET BANGLA
-
-#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png" group-title="PGPLEX", 9XM
-http://pgplex.net:8080/9XM/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="PGPLEX", GAZI TV
-http://pgplex.net:8080/GaziTVHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="PGPLEX", T SPORTS HD
-
-#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="PGPLEX", PTV SPORTS
-http://pgplex.net:8080/PTVSports/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD" tvg-logo="http://i.ibb.co/nwLphg7/Picsart-23-06-07-12-47-37-348.png" group-title="PGPLEX", SONY TEN 1 HD
-http://pgplex.net:8080/SonyTen1HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2 HD" tvg-logo="http://i.ibb.co/ZcksfGS/Picsart-23-06-07-12-47-16-858.png" group-title="PGPLEX", SONY TEN 2 HD
-http://pgplex.net:8080/SonyTen2HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="https://i.ibb.co/bPxRSQm/Picsart-23-06-07-12-36-09-155.png" group-title="PGPLEX", SONY TEN 3 HD
-http://pgplex.net:8080/SonyTen3HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 4 HD" tvg-logo="https://i.ibb.co/qBnn0Yz/Picsart-23-06-07-12-35-50-188.png" group-title="PGPLEX", SONY TEN 4 HD
-
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="PGPLEX", SONY TEN 5 HD
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="PGPLEX", STAR SPORTS 1
-http://pgplex.net:8080/StarSports1HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="PGPLEX", STAR SPORTS 2 HD
-http://pgplex.net:8080/StarSports2HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="https://i.ibb.co/WfB7NQY/Picsart-23-06-07-12-19-32-957.png" group-title="PGPLEX", NATIONAL GEOGRAPHIC HD
-
-#EXTINF:-1 tvg-id="" tvg-name="MADANI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Madani_TV.jpg" group-title="PGPLEX", MADANI TV
-
-#EXTINF:-1 tvg-id="" tvg-name="QURAN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/IRIB_Quran_%28old%29.png" group-title="PGPLEX", QURAN TV
 
 
 
