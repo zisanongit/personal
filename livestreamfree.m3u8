@@ -23,6 +23,18 @@ http://172.17.50.112/live/antbd1002/index.m3u8
 http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="LIVE EVENT", LIVE EVENT (ISP BASED)
 http://172.17.50.112/live/antbd1004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="LIVE EVENT", GAZI TV (ISP BASED)
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="LIVE EVENT", T SPORTS HD (ISP BASED)
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="LIVE EVENT", STAR SPORTS 1 HD (ISP BASED)
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png"" group-title="LIVE EVENT", STAR SPORTS 2 HD (ISP BASED)
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png"" group-title="LIVE EVENT", STAR SPORTS SELECT 1 HD (ISP BASED)
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="LIVE EVENT", PTV SPORTS (ISP BASED)
+http://103.109.56.116/live/funtime107/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BDIX" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="LIVE EVENT", LIVE BDIX EVENT 2
 
 #EXTINF:-1 tvg-id="" tvg-name="BDIX" tvg-logo="https://i.ibb.co/k4FQmvs/Picsart-23-06-07-15-31-28-702.png" group-title="LIVE EVENT", LIVE BDIX EVENT 3
