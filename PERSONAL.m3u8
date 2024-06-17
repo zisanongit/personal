@@ -696,7 +696,7 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DUBAI ONE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Dubai_one_2021.png/revision/latest?cb=20230801023842" group-title="MOVIES CHANNELS", DUBAI ONE
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES CHANNELS", B4U MOVIES
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" tvg-name="MN MOVIES" tvg-logo="https://i.ibb.co/kxGm6mr/Picsart-23-06-28-01-42-01-892.png" group-title="MOVIES CHANNELS", MN MOVIES
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAMIL VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="MOVIES CHANNELS", TAMIL VISION HD
@@ -706,7 +706,7 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #EXTINF:-1 tvg-id="" tvg-name="SURYA MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Surya_movies.jpg/revision/latest?cb=20180318054520" group-title="MOVIES CHANNELS", SURYA MOVIES
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX HD" tvg-logo="https://i.ibb.co/qgX6JfT/Picsart-23-06-07-12-52-40-872.png" group-title="MOVIES CHANNELS", SONY MAX HD
-http://89.187.177.137:8081/SONYMAX/index.m3u8
+
 
 
 
@@ -766,36 +766,36 @@ http://89.187.177.137:8081/SONYMAX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="MOVIES CHANNELS", STAR MOVIES HD
 http://172.17.50.112/live/antbd1003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES CHANNELS", B4U MOVIES UK
-http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES CHANNELS", 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES CHANNELS", 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES CHANNELS", 
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="MOVIES CHANNELS", STAR MOVIES HD
-https://edge2.laotv.la/live/StarMovie/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/n02XXG4/Picsart-23-06-07-18-25-44-626.png" group-title="MOVIES CHANNELS", STAR GOLD THRILLS
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg" group-title="MOVIES CHANNELS", STAR GOLD HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg/revision/latest?cb=20211215235100" group-title="MOVIES CHANNELS", STAR GOLD 2
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg/revision/latest?cb=20211216002621" group-title="MOVIES CHANNELS", STAR GOLD ROMANCE
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest/scale-to-width-down/250?cb=20211216003639" group-title="MOVIES CHANNELS", STAR GOLD SELECT
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg" group-title="MOVIES CHANNELS", STAR GOLD UK
-http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" tvg-name="ABZY COOL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Abzy_Cool.jpg" group-title="MOVIES CHANNELS", ABZY COOL
 
 #EXTINF:-1 tvg-id="" tvg-name="ABZY MOVIES" tvg-logo="https://i.ibb.co/TTwf3Zn/Picsart-23-06-07-17-31-49-302.png" group-title="MOVIES CHANNELS", ABZY MOVIES
 
 #EXTINF:-1 tvg-id="" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
-https://pubads.g.doubleclick.net/ssai/event/GvxJH26zQU2K26dScVna1A/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest/scale-to-width-down/250?cb=20211216003639" group-title="MOVIES CHANNELS", STAR GOLD SELECT
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg" group-title="MOVIES CHANNELS", STAR MOVIES HD
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Star_Gold_HD_2020.svg" group-title="MOVIES CHANNELS", STAR GOLD HD
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest/scale-to-width-down/250?cb=20211216003639" group-title="MOVIES CHANNELS", STAR GOLD SELECT
@@ -803,7 +803,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ROMANCE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg/revision/latest?cb=20211216002621" group-title="MOVIES CHANNELS", STAR GOLD ROMANCE
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD THRILLS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest/scale-to-width-down/250?cb=20211216003639" group-title="MOVIES CHANNELS", STAR GOLD THRILLS
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8?token=test
+
 
 
 
