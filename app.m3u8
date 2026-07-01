@@ -88,7 +88,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BANGLAVISION" tvg-logo="https://i.ibb.co/59MpX6W/Picsart-23-06-07-11-22-47-756.png" group-title="BANGLADESHI CHANNELS", BANGLAVISION
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="BANGLADESHI CHANNELS",  CHANNEL I
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://i.ibb.co/9HJgSxjF/channel-i-logo-png-seeklogo-427745.png" group-title="BANGLADESHI CHANNELS",  CHANNEL I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOISHAKHI TV" tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png" group-title="BANGLADESHI CHANNELS", BOISHAKHI TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -154,10 +154,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NOBANNO" tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png" group-title="BANGLADESHI CHANNELS", NOBANNO TV
 
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="BANGLADESHI CHANNELS",  CHANNEL I
-
-#EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png" group-title="BANGLADESHI CHANNELS", DEEPTO TV
-
 #EXTINF:-1 tvg-id="" tvg-name="R TV" tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png" group-title="BANGLADESHI CHANNELS", R TV
 
 
@@ -199,12 +195,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png" group-title="BANGLADESHI CHANNELS", GLOBAL TV
 
-#EXTINF:-1 tvg-id="" tvg-name="EKHON TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2c/%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="BANGLADESHI CHANNELS", EKHON TV
-
-#EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV" tvg-logo="https://i.ibb.co/7KyTYrM/Picsart-23-06-07-11-13-27-854.png" group-title="BANGLADESHI CHANNELS", JAMUNA TV
-
-#EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT" tvg-logo="https://i.ibb.co/qgQHWnQ/Picsart-23-06-07-11-15-11-409.png" group-title="BANGLADESHI CHANNELS", INDEPENDENT
-
 #EXTINF:-1 tvg-id="" tvg-name="ASIAN TV" tvg-logo="https://i.ibb.co/BBhfYpX/Picsart-23-06-07-10-23-04-121.png" group-title="BANGLADESHI CHANNELS", ASIAN TV
 
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="BANGLADESHI CHANNELS", BANGLA TV
@@ -215,15 +205,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BOISHAKHI TV" tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png" group-title="BANGLADESHI CHANNELS", BOISHAKHI TV
 
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg" group-title="BANGLADESHI CHANNELS",  CHANNEL I
-
-#EXTINF:-1 tvg-id="" tvg-name="DBC NEWS" tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png" group-title="BANGLADESHI CHANNELS", DBC NEWS
-
 #EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://i.ibb.co/Ln4M5vp/Picsart-23-06-07-11-11-50-301.png" group-title="BANGLADESHI CHANNELS", MOHONA TV
 
 #EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BANGLADESHI CHANNELS", MY TV
-
-#EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV" tvg-logo="https://i.ibb.co/0rR6nG7/Picsart-23-06-07-10-32-27-069.png" group-title="BANGLADESHI CHANNELS", EKUSHEY TV
 
 #EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://i.ibb.co/jhPSkLR/Picsart-23-06-07-10-30-19-289.png" group-title="BANGLADESHI CHANNELS", SA TV
 
@@ -310,6 +294,9 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ENTER 10 BANGLA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="INDIAN CHANNELS", ENTER 10 BANGLA
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sananda" tvg-logo="https://i.ibb.co/Y4RP5h66/Sananda-TV-logo-2011.webp" group-title="INDIAN CHANNELS", Sananda TV
+https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="INDIAN CHANNELS", COLORS HD
 
 #EXTINF:-1 tvg-id="" tvg-name="SUN BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931" group-title="INDIAN CHANNELS", SUN BANGLA
@@ -350,9 +337,14 @@ https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/3kQ27NW/Picsart-23-06-07-11-43-44-862.png" group-title="INDIAN CHANNELS", NATIONAL GEOGRAPHIC
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Bangla Plus" tvg-logo="https://i.ibb.co/Y4bPWmDY/Bangla-2-B-HD.png" group-title="INDIAN CHANNELS", Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YRF Music" tvg-logo="https://i.ibb.co/hxyKXJvK/YRF-Music-2007.png" group-title="INDIAN CHANNELS", YRF Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tv9 Bangla" tvg-logo="https://i.ibb.co/VW4DyCYv/image.jpg" group-title="INDIAN CHANNELS", TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Tak" tvg-logo="https://i.ibb.co/GyDcpFZ/Aaj-tak-logo.png" group-title="INDIAN CHANNELS", Aaj Tak Bangla
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 
 
 
@@ -431,10 +423,11 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAMIL VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="MOVIES CHANNELS", TAMIL VISION HD
 
 
+
 #EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS CHANNELS", DURONTO TV
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JCGcTGk/Picsart-23-06-07-12-35-16-295.png" group-title="KIDS CHANNELS", SONY YAY
-
+#EXTINF:-1 tvg-id="" tvg-name="Rongeen TV" tvg-logo="https://i.ibb.co/qMYwcmxf/Rongeen-TV-logo-with-slogan-2019.webp" group-title="KIDS CHANNELS", Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 
 
@@ -523,7 +516,7 @@ https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.ibb.co/kqbnDVX/Picsart-23-07-01-22-11-33-076.png" group-title="INFOTAINMENT CHANNELS", TRAVELXP (HINDI)
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg" group-title="INFOTAINMENT CHANNELS",  CGTN DOCUMENTARY
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FOOD FOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png" group-title="INFOTAINMENT CHANNELS", FOOD FOOD
 
 
@@ -536,7 +529,9 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PEACE TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" group-title="RELIGION CHANNELS", PEACE TV
-
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEACE TV Bangla" tvg-logo="https://i.ibb.co/sTRFqT5/logo-50.png" group-title="RELIGION CHANNELS", PEACE TV Bangla
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="RELIGION CHANNELS", IQRA BANGLA
 
 #EXTINF:-1 tvg-id="" tvg-name="SUNNAH TV" tvg-logo="https://i.ibb.co/3YdcbgR/Picsart-23-06-27-22-56-51-911.png" group-title="RELIGION CHANNELS", SUNNAH TV
@@ -562,8 +557,8 @@ https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ACCU WEATHER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg" group-title="INTERNATIONAL CHANNELS", ACCU WEATHER
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INTERNATIONAL CHANNELS", 
-
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://i.ibb.co/pmK73sf/CNA-new-logo-svg-1.png" group-title="INTERNATIONAL CHANNELS", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INTERNATIONAL CHANNELS", 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INTERNATIONAL CHANNELS", 
