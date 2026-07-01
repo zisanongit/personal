@@ -98,7 +98,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BANGLADESHI CHANNELS", MAASRANGA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Ekattor_TV_logo.svg" group-title="BANGLADESHI CHANNELS", EKATTOR TV
+#EXTINF:-1 tvg-id="" tvg-name="EKATTOR TV" tvg-logo="https://i.ibb.co/gMR5Qpvw/Ekattor-TV-logo-svg-1.png" group-title="BANGLADESHI CHANNELS", EKATTOR TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT" tvg-logo="https://i.ibb.co/qgQHWnQ/Picsart-23-06-07-11-15-11-409.png" group-title="BANGLADESHI CHANNELS", INDEPENDENT
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
@@ -106,7 +106,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOVIE BANGLA" tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png" group-title="BANGLADESHI CHANNELS", MOVIE BANGLA
 
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9 HD" tvg-logo="" group-title="BANGLADESHI CHANNELS", CHANNEL 9 
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9 HD" tvg-logo="https://i.ibb.co/mVpx32NM/Channel9-bd-svg-1.png" group-title="BANGLADESHI CHANNELS", CHANNEL 9 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BANGLADESHI CHANNELS", MY TV
 
@@ -138,7 +138,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CLOSAL TV" tvg-logo="https://colossalai.org/img/logo.svg" group-title="BANGLADESHI CHANNELS", CLOSAL TV
 
-#EXTINF:-1 tvg-id="" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="BANGLADESHI CHANNELS", N EUROPE
+#EXTINF:-1 tvg-id="" tvg-name="N TV" tvg-logo="https://i.ibb.co/0yjvV7zR/NTV-Bangladesh-logo-svg-1.png" group-title="BANGLADESHI CHANNELS", N TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://i.ibb.co/Ln4M5vp/Picsart-23-06-07-11-11-50-301.png" group-title="BANGLADESHI CHANNELS", MOHONA TV
 
@@ -538,7 +538,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PEACE TV BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="RELIGION CHANNELS", PEACE TV BANGLA
 
-#EXTINF:-1 tvg-id="" tvg-name="MADANI BANGLA" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="RELIGION CHANNELS", MADANI BANGLA
+#EXTINF:-1 tvg-id="" tvg-name="MADANI BANGLA" tvg-logo="https://i.ibb.co/Cpm5GKJZ/madanichannelbangla-1466448289-05.jpg" group-title="RELIGION CHANNELS", MADANI BANGLA
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/0.m3u8
 
 
@@ -551,7 +551,7 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/180px-Aljazeera.svg.png" group-title="INTERNATIONAL CHANNELS", AL JAZEERA
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://i.ibb.co/6Rz0XFtV/Al-Jazeera.png" group-title="INTERNATIONAL CHANNELS", AL JAZEERA
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WEATHER SPY" tvg-logo="https://images.prismic.io/atmosphere-marketing/0d10cf18-cd46-4104-8487-6995f7677bb6_Weatherspy+-+Channel+Logo.png?auto=compress,format" group-title="INTERNATIONAL CHANNELS", WEATHER SPY
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
@@ -707,14 +707,3 @@ http://172.20.21.2/ftpdata/bangla_movie/buker%20moddhe%20agun.mkv
 http://172.20.21.2/ftpdata/disk7/Indian/Hindi_Dubed/Wednesday%20Addams.mp4
 #EXTINF:-1 tvg-id="" tvg-name="THE JENGABURU CURSE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/JengaBuru-Poster.jpg" group-title="Series", THE JENGABURU CURSE
 http://172.20.21.2/ftpdata/hindi_movies/the%20jengaburu%20curse%20s01.mkv
-
-
-
-
-
-
-
-
-
-
-
