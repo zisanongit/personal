@@ -104,85 +104,78 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="NOBANNO" tvg-logo="https://nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy.png" group-title="BANGLADESHI CHANNELS", NOBANNO TV
 
-<#EXTINF:-1 tvg-id="48" tvg-name="BANGLA TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="BANGLADESHI CHANNELS", BANGLA TV HD
+<#EXTINF:-1 tvg-id="47" tvg-name="BANGLA TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="BANGLADESHI CHANNELS", BANGLA TV HD
 
-#EXTINF:-1 tvg-id="49" tvg-name="MOVIE BANGLA" tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png" group-title="BANGLADESHI CHANNELS", MOVIE BANGLA
+#EXTINF:-1 tvg-id="48" tvg-name="MOVIE BANGLA" tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png" group-title="BANGLADESHI CHANNELS", MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 tvg-id="50" tvg-name="Star News" tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS", Star News
+#EXTINF:-1 tvg-id="49" tvg-name="Star News" tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS", Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 tvg-id="51" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="BANGLADESHI CHANNELS", NTV
+#EXTINF:-1 tvg-id="50" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="BANGLADESHI CHANNELS", NTV
 
-#EXTINF:-1 tvg-id="52" tvg-name="MATRIBHUMI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Mathrubhumi_News.png/revision/latest?cb=20181211094002" group-title="BANGLADESHI CHANNELS", MATRIBHUMI
+#EXTINF:-1 tvg-id="51" tvg-name="MATRIBHUMI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Mathrubhumi_News.png/revision/latest?cb=20181211094002" group-title="BANGLADESHI CHANNELS", MATRIBHUMI
 
-#EXTINF:-1 tvg-id="53" tvg-name="NANDAN TV" tvg-logo="https://i.ibb.co/yNcVWTj/images.jpg" group-title="BANGLADESHI CHANNELS", NANDAN TV
+#EXTINF:-1 tvg-id="52" tvg-name="NANDAN TV" tvg-logo="https://i.ibb.co/yNcVWTj/images.jpg" group-title="BANGLADESHI CHANNELS", NANDAN TV
 
-#EXTINF:-1 tvg-id="54" tvg-name="CHANNEL 52" tvg-logo="https://i.ibb.co/QJX90Rv/logo.jpg" group-title="BANGLADESHI CHANNELS", CHANNEL 52
+#EXTINF:-1 tvg-id="53" tvg-name="CHANNEL 52" tvg-logo="https://i.ibb.co/QJX90Rv/logo.jpg" group-title="BANGLADESHI CHANNELS", CHANNEL 52
 
-#EXTINF:-1 tvg-id="55" tvg-name="CHANNEL S" tvg-logo="https://i.ibb.co/993kjV2/Picsart-23-06-09-16-17-31-424.png" group-title="BANGLADESHI CHANNELS", CHANNEL S
+#EXTINF:-1 tvg-id="54" tvg-name="CHANNEL S" tvg-logo="https://i.ibb.co/993kjV2/Picsart-23-06-09-16-17-31-424.png" group-title="BANGLADESHI CHANNELS", CHANNEL S
 
-#EXTINF:-1 tvg-id="56" tvg-name="TENTV" tvg-logo="https://logowik.com/content/uploads/images/network-ten-old7521.logowik.com.webp" group-title="BANGLADESHI CHANNELS", TEN IP TV
+#EXTINF:-1 tvg-id="55" tvg-name="TENTV" tvg-logo="https://logowik.com/content/uploads/images/network-ten-old7521.logowik.com.webp" group-title="BANGLADESHI CHANNELS", TEN IP TV
 
-TINF:-1 tvg-id="59" tvg-name="GREEN TV" tvg-logo="https://i.ibb.co/JmqQ6p4/Picsart-23-06-07-11-16-53-534.png" group-title="BANGLADESHI CHANNELS", GREEN TV
+TINF:-1 tvg-id="56" tvg-name="GREEN TV" tvg-logo="https://i.ibb.co/JmqQ6p4/Picsart-23-06-07-11-16-53-534.png" group-title="BANGLADESHI CHANNELS", GREEN TV
 
-#EXTINF:-1 tvg-id="64" tvg-name="NAGORIK TV" tvg-logo="https://i.ibb.co/DgY34qb/Nagorik-TV-Logo.png" group-title="BANGLADESHI CHANNELS", NAGORIK TV
+#EXTINF:-1 tvg-id="57" tvg-name="NAGORIK TV" tvg-logo="https://i.ibb.co/DgY34qb/Nagorik-TV-Logo.png" group-title="BANGLADESHI CHANNELS", NAGORIK TV
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png" group-title="BANGLADESHI CHANNELS", GLOBAL TV
+#EXTINF:-1 tvg-id="58" tvg-name="GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png" group-title="BANGLADESHI CHANNELS", GLOBAL TV
 
-#EXTINF:-1 tvg-id="" tvg-name="DESH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="BANGLADESHI CHANNELS", DESH TV
+#EXTINF:-1 tvg-id="59" tvg-name="DESH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="BANGLADESHI CHANNELS", DESH TV
 
-#EXTINF:-1 tvg-id="" tvg-name="I IPTV" tvg-logo="https://imgpile.com/images/58iPuS.jpg" group-title="BANGLADESHI CHANNELS", I IPTV BD
+#EXTINF:-1 tvg-id="60" tvg-name="I IPTV" tvg-logo="https://imgpile.com/images/58iPuS.jpg" group-title="BANGLADESHI CHANNELS", I IPTV BD
 
-#EXTINF:-1 tvg-id="" tvg-name="Time IPTV" tvg-logo="https://i.ibb.co/YFMQWq8t/logo.webp" group-title="BANGLADESHI CHANNELS", Time TV
+#EXTINF:-1 tvg-id="61" tvg-name="Time IPTV" tvg-logo="https://i.ibb.co/YFMQWq8t/logo.webp" group-title="BANGLADESHI CHANNELS", Time TV
 https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Me IPTV" tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" group-title="BANGLADESHI CHANNELS", Me IPTV BD
+#EXTINF:-1 tvg-id="62" tvg-name="Me IPTV" tvg-logo="https://i.ibb.co/VWL70Dvx/logo.png" group-title="BANGLADESHI CHANNELS", Me IPTV BD
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KTV" tvg-logo="https://i.ibb.co/358kpM5b/1000116386-removebg-preview-1.png" group-title="BANGLADESHI CHANNELS", Deshe Bideshe
+#EXTINF:-1 tvg-id="63" tvg-name="KTV" tvg-logo="https://i.ibb.co/358kpM5b/1000116386-removebg-preview-1.png" group-title="BANGLADESHI CHANNELS", Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Deshi TV" tvg-logo="https://i.ibb.co/HTfqC94Y/32111663-ico.png" group-title="BANGLADESHI CHANNELS", Deshi TV
+#EXTINF:-1 tvg-id="64" tvg-name="Deshi TV" tvg-logo="https://i.ibb.co/HTfqC94Y/32111663-ico.png" group-title="BANGLADESHI CHANNELS", Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tvgname" tvg-logo="" group-title="BANGLADESHI CHANNELS", 
+#EXTINF:-1 tvg-id="65" tvg-name="tvgname" tvg-logo="" group-title="BANGLADESHI CHANNELS", 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="SPORTS CHANNELS", T SPORTS HD OFFICIAL
+#EXTINF:-1 tvg-id="66" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="SPORTS CHANNELS", T SPORTS HD OFFICIAL
 
-#EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="SPORTS CHANNELS", GAZI TV HD
+#EXTINF:-1 tvg-id="67" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="SPORTS CHANNELS", GAZI TV HD
 
-#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS CHANNELS", PTV SPORTS
+#EXTINF:-1 tvg-id="68" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS CHANNELS", PTV SPORTS
 
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Dubai_sports_2019.jpg" group-title="SPORTS CHANNELS", DUBAI SPORTS HD
+#EXTINF:-1 tvg-id="69" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Sports_Division_Logo.png" group-title="SPORTS CHANNELS", TNT SPORTS
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Sports_Division_Logo.png" group-title="SPORTS CHANNELS", TNT SPORTS
+#EXTINF:-1 tvg-id="70" tvg-name="WILLOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPORTS CHANNELS", WILLOW HD
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS 1 (HINDI)
+#EXTINF:-1 tvg-id="71" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS 1
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Sports_Division_Logo.png" group-title="SPORTS CHANNELS", TNT SPORTS 1
+#EXTINF:-1 tvg-id="72" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS 2 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="WILLOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPORTS CHANNELS", WILLOW HD
+#EXTINF:-1 tvg-id="73" tvg-name="STAR SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS 3 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS 1
+#EXTINF:-1 tvg-id="74" tvg-name="STAR SPORTS Select 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1 
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS 2 HD
+#EXTINF:-1 tvg-id="75" tvg-name="STAR SPORTS Select 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS 3 HD
+#EXTINF:-1 tvg-id="76" tvg-name="" tvg-logo="http://i.ibb.co/nwLphg7/Picsart-23-06-07-12-47-37-348.png" group-title="SPORTS CHANNELS", SONY TEN 1 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS Select 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1 
+#EXTINF:-1 tvg-id="77" tvg-name="" tvg-logo="http://i.ibb.co/ZcksfGS/Picsart-23-06-07-12-47-16-858.png" group-title="SPORTS CHANNELS", SONY TEN 2 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS Select 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1
+#EXTINF:-1 tvg-id="78" tvg-name="" tvg-logo="https://i.ibb.co/bPxRSQm/Picsart-23-06-07-12-36-09-155.png" group-title="SPORTS CHANNELS", SONY TEN 3 HD
 
+#EXTINF:-1 tvg-id="79" tvg-name="" tvg-logo="https://i.ibb.co/qBnn0Yz/Picsart-23-06-07-12-35-50-188.png" group-title="SPORTS CHANNELS", SONY TEN 4 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/nwLphg7/Picsart-23-06-07-12-47-37-348.png" group-title="SPORTS CHANNELS", SONY TEN 1 HD
+#EXTINF:-1 tvg-id="80" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="SPORTS CHANNELS", SONY TEN 5 HD
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/ZcksfGS/Picsart-23-06-07-12-47-16-858.png" group-title="SPORTS CHANNELS", SONY TEN 2 HD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/bPxRSQm/Picsart-23-06-07-12-36-09-155.png" group-title="SPORTS CHANNELS", SONY TEN 3 HD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qBnn0Yz/Picsart-23-06-07-12-35-50-188.png" group-title="SPORTS CHANNELS", SONY TEN 4 HD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="SPORTS CHANNELS", SONY TEN 5 HD
-
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORTSHD" tvg-logo="https://i.ibb.co/XJFdMfN/Picsart-23-06-07-10-28-50-192.png" group-title="SPORTS CHANNELS", EUROSPORTS HD
+#EXTINF:-1 tvg-id="81" tvg-name="EUROSPORTSHD" tvg-logo="https://i.ibb.co/XJFdMfN/Picsart-23-06-07-10-28-50-192.png" group-title="SPORTS CHANNELS", EUROSPORTS HD
 
 
 
@@ -208,10 +201,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png" group-title="INDIAN CHANNELS", STAR PLUS HD
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ENTER 10 BANGLA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="INDIAN CHANNELS", ENTER 10 BANGLA
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Sananda" tvg-logo="https://i.ibb.co/Y4RP5h66/Sananda-TV-logo-2011.webp" group-title="INDIAN CHANNELS", Sananda TV
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="INDIAN CHANNELS", COLORS HD
