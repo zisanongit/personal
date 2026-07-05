@@ -505,7 +505,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="1111" tvg-name="" tvg-logo="" group-title="Movies", 
 
 #EXTINF:-1 tvg-id="" tvg-name="PARASITE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png" group-title="Movies", PARASITE
-http://172.20.21.2/ftpdata/disk5/American/American_Movies/Parasite%20(2019).mkv
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/test.mkv
 #EXTINF:-1 tvg-id="" tvg-name="VARISU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Varisu_poster.jpg" group-title="Movies", VARISU
 http://content.discoveryftp.net/secure/kERG_iM_DXNqu0ZuUZd82g/1701247551/Movies/Tamil/2023/Varisu/Varisu%20(2023)%20Dual%20ORG%201080p.mkv
 #EXTINF:-1 tvg-id="" tvg-name="CORONA PAPERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Corona_Papers_2023_film_poster.jpeg" group-title="Movies", CORONA PAPERS
