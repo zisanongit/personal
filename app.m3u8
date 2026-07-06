@@ -496,7 +496,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://pixeldrain.com/api/file/vHBboYL3
 #EXTINF:-1 tvg-id="1112" tvg-name="SAMBHAVAM ADHYAYAM ONNU" tvg-logo="https://i.ibb.co/j9CYLYgt/images.jpg" group-title="Movies", SAMBHAVAM ADHYAYAM ONNU
 https://pixeldrain.com/api/file/Be2tANXr
-#EXTINF:-1 tvg-id="1113" tvg-name="29" tvg-logo="" group-title="Movies", 29
+#EXTINF:-1 tvg-id="1113" tvg-name="29" tvg-logo="https://i.ibb.co/rPNgx9n/29-movie-poster.jpg" group-title="Movies", 29
 https://pixeldrain.com/api/file/inthmgsk
 #EXTINF:-1 tvg-id="1114" tvg-name="LOKAH CHAPTER ONE" tvg-logo="https://i.ibb.co/Z684CVtx/lokah-chapter-one-chandra.jpg" group-title="Movies", LOKAH CHAPTER ONE
 https://pixeldrain.com/api/file/bm9zYVP3
@@ -504,31 +504,23 @@ https://pixeldrain.com/api/file/bm9zYVP3
 https://pixeldrain.com/api/file/BxFJRj44
 #EXTINF:-1 tvg-id="1116" tvg-name="DAMAN" tvg-logo="https://i.ibb.co/whr7Mfhn/images-1.jpg" group-title="Movies", DAMAN
 https://pixeldrain.com/api/file/q7Ut7HpJ
-#EXTINF:-1 tvg-id="1111" tvg-name="BACHALA MALLI" tvg-logo="https://i.ibb.co/dsfthBHW/MV5-BZTgy-Yjk5-Yz-Mt-Mj-A0-Yi00-Mz-Iz-LWE3-NTQt-Mz-Qy-MGFm-Ym-Nl-ZDI4-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="Movies", BACHALA MALLI
+#EXTINF:-1 tvg-id="1117" tvg-name="BACHALA MALLI" tvg-logo="https://i.ibb.co/dsfthBHW/MV5-BZTgy-Yjk5-Yz-Mt-Mj-A0-Yi00-Mz-Iz-LWE3-NTQt-Mz-Qy-MGFm-Ym-Nl-ZDI4-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg" group-title="Movies", BACHALA MALLI
 https://pixeldrain.com/api/file/WRg8zZpw
-#EXTINF:-1 tvg-id="1111" tvg-name="GULTOO" tvg-logo="https://i.ibb.co/NdQ0RgM0/images-2.jpg" group-title="Movies", GULTOO
+#EXTINF:-1 tvg-id="1118" tvg-name="GULTOO" tvg-logo="https://i.ibb.co/NdQ0RgM0/images-2.jpg" group-title="Movies", GULTOO
 https://pixeldrain.com/api/file/6KhkgtjK
+#EXTINF:-1 tvg-id="1119" tvg-name="DEVARA PART 1" tvg-logo="https://i.ibb.co/yKqB2B6/images-3.jpg" group-title="Movies", DEVARA PART 1
+https://pixeldrain.com/api/file/7TnrJWne
+#EXTINF:-1 tvg-id="1120" tvg-name="GENTLE MAN" tvg-logo="https://i.ibb.co/PZVGfg72/images-4.jpg" group-title="Movies", GENTLEMAN
+https://pixeldrain.com/api/file/Z8mUrm8Z
+#EXTINF:-1 tvg-id="1121" tvg-name="LOVER" tvg-logo="https://i.ibb.co/hFkHnTVW/images-5.jpg" group-title="Movies", LOVER
+https://pixeldrain.com/api/file/SZDTJQey
+#EXTINF:-1 tvg-id="1122" tvg-name="LUCKY VASKAR" tvg-logo="https://i.ibb.co/XZtQwzgP/MV5-BMjhh-ZTJl-OWEt-Nz-A5-MS00-ZDQw-LWE5-ZDkt-MGNk-Nz-A1-Zjky-OWRm-Xk-Ey-Xk-Fqc-Gc-V1.jpg" group-title="Movies", LUCKY VASKAR
+https://pixeldrain.com/api/file/duysi7kW
 #EXTINF:-1 tvg-id="1111" tvg-name="" tvg-logo="" group-title="Movies", 
 
 #EXTINF:-1 tvg-id="1111" tvg-name="" tvg-logo="" group-title="Movies", 
 
-#EXTINF:-1 tvg-id="1111" tvg-name="" tvg-logo="" group-title="Movies", 
 
-#EXTINF:-1 tvg-id="1111" tvg-name="" tvg-logo="" group-title="Movies", 
-
-#EXTINF:-1 tvg-id="1111" tvg-name="" tvg-logo="" group-title="Movies", 
-
-#EXTINF:-1 tvg-id="1111" tvg-name="" tvg-logo="" group-title="Movies", 
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PARASITE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Parasite_%282019_film%29.png" group-title="Movies", PARASITE
-http://172.20.21.2/ftpdata/disk5/American/American_Movies/Parasite%20(2019).mkv
-#EXTINF:-1 tvg-id="" tvg-name="VARISU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Varisu_poster.jpg" group-title="Movies", VARISU
-http://content.discoveryftp.net/secure/kERG_iM_DXNqu0ZuUZd82g/1701247551/Movies/Tamil/2023/Varisu/Varisu%20(2023)%20Dual%20ORG%201080p.mkv
-#EXTINF:-1 tvg-id="" tvg-name="CORONA PAPERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Corona_Papers_2023_film_poster.jpeg" group-title="Movies", CORONA PAPERS
-http://172.20.21.2/ftpdata/disk7/Indian/Hindi_Dubed/Corona%20Papers.mkv
 
 #EXTINF:-1 tvg-id="1111" tvg-name="" tvg-logo="" group-title="Movies", 
 
@@ -550,7 +542,6 @@ http://172.20.21.2/ftpdata/bangla_movie/boli%20s01%202021.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Buker_Moddhye_Agun.jpg" group-title="Series", BUKER MODDHE AGUN
 http://172.20.21.2/ftpdata/bangla_movie/buker%20moddhe%20agun.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WEDNESDAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Wednesday_Netflix_series_poster.png" group-title="Series", WEDNESDAY
-http://172.20.21.2/ftpdata/disk7/Indian/Hindi_Dubed/Wednesday%20Addams.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="THE JENGABURU CURSE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/JengaBuru-Poster.jpg" group-title="Series", THE JENGABURU CURSE
 http://172.20.21.2/ftpdata/hindi_movies/the%20jengaburu%20curse%20s01.mkv
-
