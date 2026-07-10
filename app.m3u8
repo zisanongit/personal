@@ -29,7 +29,10 @@ http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c
 
 #EXTINF:-1 tvg-id="07" tvg-name="BTV WORLD" tvg-logo="https://i.ibb.co/NtQ4fMf/Picsart-23-06-12-22-23-10-612.png" group-title="BANGLADESHI CHANNELS", BTV WORLD
 
+
 #EXTINF:-1 tvg-id="08" tvg-name="SOMOY TV" tvg-logo="https://i.ibb.co/TW3yQD9/Picsart-23-06-07-11-27-32-538.png" group-title="BANGLADESHI CHANNELS", SOMOY TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#EXTINF:-1 tvg-id="009" tvg-name="Channel One" tvg-logo="https://i.ibb.co/jk13HW6j/svg.png" group-title="BANGLADESHI CHANNELS", Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="09" tvg-name="CHANNEL 24" tvg-logo="https://i.ibb.co/cvp9cwR/Picsart-23-06-07-11-34-54-734.png" group-title="BANGLADESHI CHANNELS", CHANNEL 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
@@ -549,3 +552,14 @@ http://172.20.21.2/ftpdata/bangla_movie/buker%20moddhe%20agun.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="THE JENGABURU CURSE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/JengaBuru-Poster.jpg" group-title="Series", THE JENGABURU CURSE
 http://172.20.21.2/ftpdata/hindi_movies/the%20jengaburu%20curse%20s01.mkv
+
+
+
+
+
+
+
+
+
+
+
