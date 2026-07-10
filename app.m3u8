@@ -6,6 +6,7 @@
 
 
 
+
 #EXTINF:-1 tvg-id="01" tvg-name="LIVE EVENT" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", WorldCup
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/live-event2.json
 #EXTINF:-1 tvg-id="02" tvg-name="Live Event" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", WorldCup 2
@@ -17,8 +18,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/funtimeftp.
 #EXTINF:-1 tvg-id="03" tvg-name="Live Event" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", Live Event
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/live-event3.json
 #EXTINF:-1 tvg-id="04" tvg-name="Live Event" tvg-logo="https://i.ibb.co/VWZykTG5/2026-FIFA-World-Cup-emblem-1.png" group-title="LIVE EVENT", Fifa WorldCup
-
-
+http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
 
 
 
@@ -391,15 +391,15 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="168" tvg-name="HINDI HITS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/579/872/non_2x/music-symbols-logo-and-icons-template-vector.jpg" group-title="MUSIC CHANNELS", HINDI HITS HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="169" tvg-name="KAPPA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Kappa_tv_Channel_Logo.png" group-title="MUSIC CHANNELS", KAPPA TV
-
+https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8?hdnts=st%3D1783658363~exp%3D1783679963~acl%3D%21%2A%2Ffta%2Fkappatv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_166_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_166_-1~hmac%3Df840bc76e2aa5e0e762a83c8d025ae7c64b4b2e16ff94189478f323c1694e880
 #EXTINF:-1 tvg-id="170" tvg-name="MASTIII" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC CHANNELS", AB MASTIII
 
 #EXTINF:-1 tvg-id="171" tvg-name="JOO MUSIC" tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC CHANNELS", JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="172" tvg-name="SHOW BOX" tvg-logo="https://i.ibb.co/tb6nX5k/Picsart-23-06-28-01-36-22-182.png" group-title="MUSIC CHANNELS", SHOW BOX
 
-#EXTINF:-1 tvg-id="173" tvg-name="MN MUSIC" tvg-logo="https://i.ibb.co/kxGm6mr/Picsart-23-06-28-01-42-01-892.png" group-title="MUSIC CHANNELS", MN MUSIC
-
+#EXTINF:-1 tvg-id="173" tvg-name="BALLE BALLE" tvg-logo="https://i.ibb.co/pjFfdDjM/logo-e1568618159543.png" group-title="MUSIC CHANNELS", BALLE BALLE
+https://d1msejlow1t3l4.cloudfront.net/fta/balleballe/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03
 #EXTINF:-1 tvg-id="174" tvg-name="V2BEAT" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/V2BEATTV.png" group-title="MUSIC CHANNELS", V2BEAT
 https://de1se01.v2beat.live/playlist.m3u8
 
@@ -492,9 +492,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 
 
+#EXTINF:-1 tvg-id="1111" tvg-name="" tvg-logo="https://i.ibb.co/Dgg9tFj5/images.jpg" group-title="Movies", ATHIRADI
 
 
-
+#EXTINF:-1 tvg-id="1110" tvg-name="" tvg-logo="https://i.ibb.co/39hH9V8w/sky.jpg" group-title="Movies", TUCK JAGADISH
+https://pixeldrain.com/api/file/ZFP82LqF
 #EXTINF:-1 tvg-id="1111" tvg-name="mkv" tvg-logo="https://i.ibb.co/zh0dvntB/ug-E6k-Uxt4-Qx-KSov8-WYAi4-NJHRh-B.jpg" group-title="Movies", KOTHA KOTHAGA
 https://pixeldrain.com/api/file/vHBboYL3
 #EXTINF:-1 tvg-id="1112" tvg-name="SAMBHAVAM ADHYAYAM ONNU" tvg-logo="https://i.ibb.co/j9CYLYgt/images.jpg" group-title="Movies", SAMBHAVAM ADHYAYAM ONNU
@@ -547,4 +549,15 @@ http://172.20.21.2/ftpdata/bangla_movie/buker%20moddhe%20agun.mkv
 #EXTINF:-1 tvg-id="" tvg-name="WEDNESDAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Wednesday_Netflix_series_poster.png" group-title="Series", WEDNESDAY
 
 #EXTINF:-1 tvg-id="" tvg-name="THE JENGABURU CURSE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/JengaBuru-Poster.jpg" group-title="Series", THE JENGABURU CURSE
-https://krakenfiles.com/embed-video/ApaKKInlnd
+http://172.20.21.2/ftpdata/hindi_movies/the%20jengaburu%20curse%20s01.mkv
+
+
+
+
+
+
+
+
+
+
+
