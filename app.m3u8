@@ -267,15 +267,15 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 #EXTINF:-1 tvg-id="113" tvg-name="JALSHA MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="MOVIES CHANNELS", JALSHA MOVIES HD
 
 #EXTINF:-1 tvg-id="114" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX
-https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/l_88541_191084000_47771.ts?nimblesessionid=24686532
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/index.m3u8
 #EXTINF:-1 tvg-id="115" tvg-name="SONY MAX HD" tvg-logo="https://i.ibb.co/qgX6JfT/Picsart-23-06-07-12-52-40-872.png" group-title="MOVIES CHANNELS", SONY MAX HD
-https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/l_114177_584000_146.ts?nimblesessionid=24686034
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="116" tvg-name="SONY MAX 2" tvg-logo="https://i.ibb.co/pXNNWYD/Picsart-23-06-07-12-52-23-332.png" group-title="MOVIES CHANNELS", SONY MAX 2
 
 #EXTINF:-1 tvg-id="117" tvg-name="" tvg-logo="http://i.ibb.co/n02XXG4/Picsart-23-06-07-18-25-44-626.png" group-title="MOVIES CHANNELS", STAR GOLD THRILLS
 
-#EXTINF:-1 tvg-id="118" tvg-name="AND PICTURES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="MOVIES CHANNELS", AND PICTURES HD
-https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/l_1817_1055528000_263882.ts?nimblesessionid=24683432
+#EXTINF:-1 tvg-id="118" tvg-name="AND PICTURES HD" tvg-logo="https://i.ibb.co/4ZqjChvq/Pictures-2025.png" group-title="MOVIES CHANNELS", AND PICTURES HD
+https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="119" tvg-name="B4U MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES CHANNELS", B4U MOVIES
 
 #EXTINF:-1 tvg-id="120" tvg-name="B4U KADAK" tvg-logo="https://i.ibb.co/JFTfGm4/Picsart-23-06-07-12-25-34-072.png" group-title="MOVIES CHANNELS", B4U KADAK
@@ -286,8 +286,8 @@ https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/l_1817
 
 #EXTINF:-1 tvg-id="123" tvg-name="ZEE CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA
 
-#EXTINF:-1 tvg-id="124" tvg-name="ZEE CINEMA HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA HD
-https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/l_1749_1055596000_263899.ts?nimblesessionid=24685106
+#EXTINF:-1 tvg-id="124" tvg-name="ZEE CINEMA HD" tvg-logo="https://i.ibb.co/HDpmh2wH/Zee-Cinema-2025-svg.png" group-title="MOVIES CHANNELS", ZEE CINEMA HD
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="125" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Zee_Anmol_Cinema.png/revision/latest?cb=20210826143243" group-title="MOVIES CHANNELS", ZEE ANMOL CINEMA
 
 #EXTINF:-1 tvg-id="126" tvg-name="AND PICTURES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg" group-title="MOVIES CHANNELS", AND PICTURES
@@ -552,14 +552,3 @@ http://172.20.21.2/ftpdata/bangla_movie/buker%20moddhe%20agun.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="THE JENGABURU CURSE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/JengaBuru-Poster.jpg" group-title="Series", THE JENGABURU CURSE
 http://172.20.21.2/ftpdata/hindi_movies/the%20jengaburu%20curse%20s01.mkv
-
-
-
-
-
-
-
-
-
-
-
