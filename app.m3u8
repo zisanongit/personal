@@ -267,7 +267,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 #EXTINF:-1 tvg-id="113" tvg-name="JALSHA MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="MOVIES CHANNELS", JALSHA MOVIES HD
 
 #EXTINF:-1 tvg-id="114" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX
-https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/index.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sonymax.json
 #EXTINF:-1 tvg-id="115" tvg-name="SONY MAX HD" tvg-logo="https://i.ibb.co/qgX6JfT/Picsart-23-06-07-12-52-40-872.png" group-title="MOVIES CHANNELS", SONY MAX HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/index.m3u8
 #EXTINF:-1 tvg-id="116" tvg-name="SONY MAX 2" tvg-logo="https://i.ibb.co/pXNNWYD/Picsart-23-06-07-12-52-23-332.png" group-title="MOVIES CHANNELS", SONY MAX 2
@@ -283,7 +283,7 @@ https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/index.
 #EXTINF:-1 tvg-id="121" tvg-name="BFLIX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="MOVIES CHANNELS", BFLIX MOVIES
 
 #EXTINF:-1 tvg-id="122" tvg-name="ZEE ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="MOVIES CHANNELS", ZEE ACTION
-
+http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="ZEE CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA
 
 #EXTINF:-1 tvg-id="124" tvg-name="ZEE CINEMA HD" tvg-logo="https://i.ibb.co/HDpmh2wH/Zee-Cinema-2025-svg.png" group-title="MOVIES CHANNELS", ZEE CINEMA HD
@@ -331,7 +331,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 #EXTINF:-1 tvg-id="144" tvg-name="BOLLYWOOD PRIME" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png" group-title="MOVIES CHANNELS", BOLLYWOOD PRIME
 
 #EXTINF:-1 tvg-id="145" tvg-name="B4U MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES CHANNELS", B4U MOVIES
-
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="146" tvg-name="MN MOVIES" tvg-logo="https://i.ibb.co/kxGm6mr/Picsart-23-06-28-01-42-01-892.png" group-title="MOVIES CHANNELS", MN MOVIES
 https://mntv.livebox.co.in/mntvhls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TAMIL VISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/TVI_HD_logo.png" group-title="MOVIES CHANNELS", TAMIL VISION HD
@@ -382,9 +382,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 
 #EXTINF:-1 tvg-id="163" tvg-name="9XM" tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png" group-title="MUSIC CHANNELS", 9XM
-https://wiselp.wiseplayout.com/9XM/master.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/9xm.json
 #EXTINF:-1 tvg-id="164" tvg-name="MUSIC INDIA" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" group-title="MUSIC CHANNELS", MUSIC INDIA
-https://cdn-2.pishow.tv/live/226/master.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/musicindia.json
 #EXTINF:-1 tvg-id="165" tvg-name="SANGEET BANGLA" tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC CHANNELS", SANGEET BANGLA
 
 #EXTINF:-1 tvg-id="166" tvg-name="9X TASHAN" tvg-logo="https://i.ibb.co/D5gRqdk/Picsart-23-06-07-12-04-36-664.png" group-title="MUSIC CHANNELS", 9X TASHAN
@@ -402,7 +402,7 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="172" tvg-name="SHOW BOX" tvg-logo="https://i.ibb.co/tb6nX5k/Picsart-23-06-28-01-36-22-182.png" group-title="MUSIC CHANNELS", SHOW BOX
 
 #EXTINF:-1 tvg-id="173" tvg-name="BALLE BALLE" tvg-logo="https://i.ibb.co/pjFfdDjM/logo-e1568618159543.png" group-title="MUSIC CHANNELS", BALLE BALLE
-https://d1msejlow1t3l4.cloudfront.net/fta/balleballe/playlist.m3u8?hdnts=st%3D1783658359~exp%3D1783679959~acl%3D%21%2A%2Ffta%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_137_-1~hmac%3D098f4a20f6ef6a0c1d1c697763a4c76894f60e7544170fbc7e442f16f762ab03
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/balleballe.json
 #EXTINF:-1 tvg-id="174" tvg-name="V2BEAT" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/V2BEATTV.png" group-title="MUSIC CHANNELS", V2BEAT
 https://de1se01.v2beat.live/playlist.m3u8
 
@@ -424,6 +424,7 @@ https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="177" tvg-name="Discovery" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS", DISCOVERY HD (BANGLA)
 
 #EXTINF:-1 tvg-id="178" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="INFOTAINMENT CHANNELS",  ANIMAL PLANET HD
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="179" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/3cpFQ62/Picsart-23-06-07-12-29-50-426.png" group-title="INFOTAINMENT CHANNELS", BBC EARTH HD
 
