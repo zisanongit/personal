@@ -207,7 +207,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/zeebangla.j
 #EXTINF:-1 tvg-id="83" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="INDIAN CHANNELS", SONY AATH
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/l_114245_260360_65.ts?nimblesessionid=24690470
 #EXTINF:-1 tvg-id="84" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="INDIAN CHANNELS", STAR JALSHA HD
-https://linux-desktop-production-b121.up.railway.app/star-jalsha/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/starjalsha.json
 #EXTINF:-1 tvg-id="85" tvg-name="COLORS BANGLA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?" group-title="INDIAN CHANNELS", COLORS BANGLA HD
 
 #EXTINF:-1 tvg-id="86" tvg-name="" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png" group-title="INDIAN CHANNELS", STAR PLUS HD
@@ -270,7 +270,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 
 
 #EXTINF:-1 tvg-id="113" tvg-name="JALSHA MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="MOVIES CHANNELS", JALSHA MOVIES HD
-https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/jalshamovies.json
+
 #EXTINF:-1 tvg-id="114" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sonymax.json
 #EXTINF:-1 tvg-id="115" tvg-name="SONY MAX HD" tvg-logo="https://i.ibb.co/qgX6JfT/Picsart-23-06-07-12-52-40-872.png" group-title="MOVIES CHANNELS", SONY MAX HD
