@@ -207,7 +207,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="SONY AATH" tvg-logo="https://i.ibb.co/G7h2tj2/Picsart-23-06-07-12-58-40-084.png" group-title="INDIAN CHANNELS", SONY AATH
 https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/l_114245_260360_65.ts?nimblesessionid=24690470
 #EXTINF:-1 tvg-id="84" tvg-name="STAR JALSHA" tvg-logo="https://i.ibb.co/ZKvL8QG/Picsart-23-07-13-01-14-17-172.png" group-title="INDIAN CHANNELS", STAR JALSHA HD
-
+https://linux-desktop-production-b121.up.railway.app/star-jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="COLORS BANGLA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?" group-title="INDIAN CHANNELS", COLORS BANGLA HD
 
 #EXTINF:-1 tvg-id="86" tvg-name="" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png" group-title="INDIAN CHANNELS", STAR PLUS HD
