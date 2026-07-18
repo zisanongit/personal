@@ -270,7 +270,7 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720
 
 
 #EXTINF:-1 tvg-id="113" tvg-name="JALSHA MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="MOVIES CHANNELS", JALSHA MOVIES HD
-https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/starjalsha.json
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/jalshamovies.json
 #EXTINF:-1 tvg-id="114" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="MOVIES CHANNELS", SONY MAX
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sonymax.json
 #EXTINF:-1 tvg-id="115" tvg-name="SONY MAX HD" tvg-logo="https://i.ibb.co/qgX6JfT/Picsart-23-06-07-12-52-40-872.png" group-title="MOVIES CHANNELS", SONY MAX HD
