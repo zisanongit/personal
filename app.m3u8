@@ -242,9 +242,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="Aaj Tak" tvg-logo="https://i.ibb.co/GyDcpFZ/Aaj-tak-logo.png" group-title="INDIAN CHANNELS", Aaj Tak Bangla
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
-
-
-
+#EXTINF:-1 tvg-id="0108" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="INDIAN CHANNELS", Dangal 1
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="0109" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png" group-title="INDIAN CHANNELS", Dangal
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="113" tvg-name="JALSHA MOVIES HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png" group-title="MOVIES CHANNELS", JALSHA MOVIES HD
