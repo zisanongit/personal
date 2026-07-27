@@ -189,7 +189,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/starjalsha.
 #EXTINF:-1 tvg-id="85" tvg-name="COLORS BANGLA HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/Colors_Bangla_HD_%282016-present%29.png/revision/latest?" group-title="INDIAN CHANNELS", COLORS BANGLA HD
 http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-id="86" tvg-name="" tvg-logo="http://i.ibb.co/qBYNY8q/Picsart-23-07-16-01-26-34-839.png" group-title="INDIAN CHANNELS", STAR PLUS HD
-
+https://yowaimo.in/Sflex-ArtlPVT0719/STAR_PLUS_HD.m3u8
 #EXTINF:-1 tvg-id="87" tvg-name="ENTER 10 BANGLA" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png" group-title="INDIAN CHANNELS", ENTER 10 BANGLA
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="88" tvg-name="Sananda" tvg-logo="https://i.ibb.co/Y4RP5h66/Sananda-TV-logo-2011.webp" group-title="INDIAN CHANNELS", Sananda TV
@@ -285,7 +285,7 @@ https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/index.m3
 #EXTINF:-1 tvg-id="130" tvg-name="COLORS CINEPLEX SUPER HIT" tvg-logo="https://iili.io/JJY4ccg.md.png" group-title="MOVIES CHANNELS", COLORS CINEPLEX SUPERHITS
 
 #EXTINF:-1 tvg-id="131" tvg-name="COLORS CINEPLEX UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest?cb=20210605153257" group-title="MOVIES CHANNELS", COLORS CINEPLEX UK
-
+http://live.balajibroadband.com:3500/live/1763.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="MOVIES CHANNELS", COLORS BANGLA CINEMA
 
 #EXTINF:-1 tvg-id="133" tvg-name="SUN BANGLA CINEMA" tvg-logo="https://i.ibb.co/xSCDQTq/sun-bangla-cinema-in.png" group-title="MOVIES CHANNELS", SUN BANGLA CINEMA
@@ -339,7 +339,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="KIDS CHANNELS", KHUSHBOO BANGLA
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="153" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="KIDS CHANNELS", NICK BANGLA
-
+http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-id="154" tvg-name="SONIC HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Nickelodeon_Sonic_logo.png" group-title="KIDS CHANNELS", SONIC HINDI
 
 #EXTINF:-1 tvg-id="155" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
