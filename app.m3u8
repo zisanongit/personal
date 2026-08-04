@@ -96,7 +96,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-id="48" tvg-name="MOVIE BANGLA" tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png" group-title="BANGLADESHI CHANNELS", MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="49" tvg-name="Star News" tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS", Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="BANGLADESHI CHANNELS", NTV
@@ -129,6 +129,9 @@ https://iptvbd.live/metv1080/1080.m3u8
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-id="64" tvg-name="Deshi TV" tvg-logo="https://i.ibb.co/HTfqC94Y/32111663-ico.png" group-title="BANGLADESHI CHANNELS", Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="065" tvg-name="SRK TV" tvg-logo="https://i.postimg.cc/65vbDqBJ/1000123201-removebg-preview.png" group-title="BANGLADESHI CHANNELS", SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="65" tvg-name="tvgname" tvg-logo="" group-title="BANGLADESHI CHANNELS", 
 
 
@@ -263,7 +266,7 @@ https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/index.
 #EXTINF:-1 tvg-id="119" tvg-name="B4U MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="MOVIES CHANNELS", B4U MOVIES
 
 #EXTINF:-1 tvg-id="120" tvg-name="B4U KADAK" tvg-logo="https://i.ibb.co/JFTfGm4/Picsart-23-06-07-12-25-34-072.png" group-title="MOVIES CHANNELS", B4U KADAK
-
+https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-id="121" tvg-name="BFLIX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="MOVIES CHANNELS", BFLIX MOVIES
 
 #EXTINF:-1 tvg-id="122" tvg-name="ZEE ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="MOVIES CHANNELS", ZEE ACTION
@@ -411,7 +414,7 @@ https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="176" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://i.ibb.co/3kQ27NW/Picsart-23-06-07-11-43-44-862.png" group-title="INFOTAINMENT CHANNELS", NATIONAL GEOGRAPHIC
 
 #EXTINF:-1 tvg-id="177" tvg-name="Discovery" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS", DISCOVERY HD (BANGLA)
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/discovery.json
 #EXTINF:-1 tvg-id="178" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="INFOTAINMENT CHANNELS",  ANIMAL PLANET HD
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
