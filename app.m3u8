@@ -148,17 +148,17 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="69" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Sports_Division_Logo.png" group-title="SPORTS CHANNELS", TNT SPORTS
 
 #EXTINF:-1 tvg-id="70" tvg-name="WILLOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPORTS CHANNELS", WILLOW HD
-
+https://mflixott.com/tv/dd/live.php/346.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.ibb.co/YhDyRj0/Picsart-23-06-12-22-33-19-985.png" group-title="SPORTS CHANNELS", STAR SPORTS 1
-https://starsportshindiii.pages.dev/index.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/ss1.json
 #EXTINF:-1 tvg-id="72" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS 2 HD
-
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/ss2.json
 #EXTINF:-1 tvg-id="73" tvg-name="STAR SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS 3 HD
 
 #EXTINF:-1 tvg-id="74" tvg-name="STAR SPORTS Select 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1 
-
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sselect1.json
 #EXTINF:-1 tvg-id="75" tvg-name="STAR SPORTS Select 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1
-
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sselect2.json
 #EXTINF:-1 tvg-id="76" tvg-name="" tvg-logo="http://i.ibb.co/nwLphg7/Picsart-23-06-07-12-47-37-348.png" group-title="SPORTS CHANNELS", SONY TEN 1 HD
 
 #EXTINF:-1 tvg-id="77" tvg-name="" tvg-logo="http://i.ibb.co/ZcksfGS/Picsart-23-06-07-12-47-16-858.png" group-title="SPORTS CHANNELS", SONY TEN 2 HD
@@ -171,7 +171,8 @@ https://starsportshindiii.pages.dev/index.m3u8
 
 #EXTINF:-1 tvg-id="81" tvg-name="EUROSPORTSHD" tvg-logo="https://i.ibb.co/XJFdMfN/Picsart-23-06-07-10-28-50-192.png" group-title="SPORTS CHANNELS", EUROSPORTS HD
 
-
+#EXTINF:-1 tvg-id="082" tvg-name="Tencricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png" group-title="SPORTS CHANNELS", Ten Cricket HD
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/tencricket.json
 
 
 
@@ -363,12 +364,12 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/disneyjr.js
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/disneyxd.json
 #EXTINF:-1 tvg-id="157" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="KIDS CHANNELS", CARTOON NETWORK HD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/cn.json
-#EXTINF:-1 tvg-id="158" tvg-name="" tvg-logo="https://i.ibb.co/zFFBFCS/Picsart-23-06-07-18-33-22-817.png" group-title="KIDS CHANNELS", DISCOVERY KIDS
-
+#EXTINF:-1 tvg-id="158" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/zFFBFCS/Picsart-23-06-07-18-33-22-817.png" group-title="KIDS CHANNELS", DISCOVERY KIDS
+https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest?cb=20220717214037" group-title="KIDS CHANNELS", NICK JR
 
-#EXTINF:-1 tvg-id="160" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Pogo_2004.svg/revision/latest?cb=20151205150720" group-title="KIDS CHANNELS", POGO
-
+#EXTINF:-1 tvg-id="160" tvg-name="pogo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Pogo_2004.svg/revision/latest?cb=20151205150720" group-title="KIDS CHANNELS", POGO
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="161" tvg-name="" tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png" group-title="KIDS CHANNELS", GUBBARE
 
 #EXTINF:-1 tvg-id="162" tvg-name="KIDS FLIX" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png" group-title="KIDS CHANNELS", KIDS FLIX
@@ -425,11 +426,11 @@ https://de1se01.v2beat.live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="176" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://i.ibb.co/3kQ27NW/Picsart-23-06-07-11-43-44-862.png" group-title="INFOTAINMENT CHANNELS", NATIONAL GEOGRAPHIC
-
+http://40.160.24.53/NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-id="177" tvg-name="Discovery" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS", DISCOVERY HD (BANGLA)
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/discovery.json
 #EXTINF:-1 tvg-id="178" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="INFOTAINMENT CHANNELS",  ANIMAL PLANET HD
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/animalplanet.json
 
 #EXTINF:-1 tvg-id="179" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/3cpFQ62/Picsart-23-06-07-12-29-50-426.png" group-title="INFOTAINMENT CHANNELS", BBC EARTH HD
 
