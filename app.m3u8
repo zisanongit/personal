@@ -20,15 +20,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/95/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%A8%E0%A7%AA_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%29_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="BANGLADESHI CHANNELS", NEWS 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="ATN BANGLA" tvg-logo="https://i.ibb.co/D7sMcgj/Picsart-23-06-07-11-27-15-922.png" group-title="BANGLADESHI CHANNELS", ATN BANGLA
-http://line.tvdsz.cc//play/live.php?mac=00:1A:79:B5:AD:FB&stream=908660&extension=m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/atnbangla.json
 #EXTINF:-1 tvg-id="12" tvg-name="ATN NEWS" tvg-logo="https://i.ibb.co/wRr7tXc/Picsart-23-06-07-11-32-09-482.png" group-title="BANGLADESHI CHANNELS", ATN NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/atnnews.json
 #EXTINF:-1 tvg-id="13" tvg-name="BANGLAVISION" tvg-logo="https://i.ibb.co/59MpX6W/Picsart-23-06-07-11-22-47-756.png" group-title="BANGLADESHI CHANNELS", BANGLAVISION
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/banglavision.json
 #EXTINF:-1 tvg-id="14" tvg-name="CHANNEL I" tvg-logo="https://i.ibb.co/9HJgSxjF/channel-i-logo-png-seeklogo-427745.png" group-title="BANGLADESHI CHANNELS",  CHANNEL I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/channeli.json
 #EXTINF:-1 tvg-id="15" tvg-name="BOISHAKHI TV" tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png" group-title="BANGLADESHI CHANNELS", BOISHAKHI TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/boishakhi.json
 #EXTINF:-1 tvg-id="16" tvg-name="DBC NEWS" tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png" group-title="BANGLADESHI CHANNELS", DBC NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="GREEN TV" tvg-logo="https://i.ibb.co/JmqQ6p4/Picsart-23-06-07-11-16-53-534.png" group-title="BANGLADESHI CHANNELS", GREEN TV
@@ -58,7 +58,7 @@ https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="JAGONEWS24" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png" group-title="BANGLADESHI CHANNELS", JAGONEWS24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="R TV" tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png" group-title="BANGLADESHI CHANNELS", R TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/rtv.json
 #EXTINF:-1 tvg-id="31" tvg-name="ASIAN TV" tvg-logo="https://i.ibb.co/BBhfYpX/Picsart-23-06-07-10-23-04-121.png" group-title="BANGLADESHI CHANNELS", ASIAN TV
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/asiantv.json
 
@@ -69,7 +69,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/asiantv.jso
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="SA TV" tvg-logo="https://i.ibb.co/jhPSkLR/Picsart-23-06-07-10-30-19-289.png" group-title="BANGLADESHI CHANNELS", SA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="35" tvg-name="RAJDHANI TV" tvg-logo="https://i.ibb.co/QJX90Rv/logo.jpghttps://i.ibb.co/KK7Zkr7/1665000837logo.png" group-title="BANGLADESHI CHANNELS", RAJDHANI TV
+#EXTINF:-1 tvg-id="35" tvg-name="RAJDHANI TV" tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" group-title="BANGLADESHI CHANNELS", RAJDHANI TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="EKHON TV" tvg-logo="https://ekhon.tv/logo.png" group-title="BANGLADESHI CHANNELS", EKHON TV
 https://stream.ottplus.live/live/ekhon_tv_abr/index.m3u8
@@ -78,7 +78,7 @@ https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tra
 #EXTINF:-1 tvg-id="38" tvg-name="CLOSAL TV" tvg-logo="https://colossalai.org/img/logo.svg" group-title="BANGLADESHI CHANNELS", CLOSAL TV
 
 #EXTINF:-1 tvg-id="39" tvg-name="N TV" tvg-logo="https://i.ibb.co/0yjvV7zR/NTV-Bangladesh-logo-svg-1.png" group-title="BANGLADESHI CHANNELS", N TV
-
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="MOHONA TV" tvg-logo="https://i.ibb.co/Ln4M5vp/Picsart-23-06-07-11-11-50-301.png" group-title="BANGLADESHI CHANNELS", MOHONA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="BANGLADESHI CHANNELS", NEXUS TV HD
@@ -109,17 +109,17 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="CHANNEL 52" tvg-logo="https://i.ibb.co/QJX90Rv/logo.jpg" group-title="BANGLADESHI CHANNELS", CHANNEL 52
 
 #EXTINF:-1 tvg-id="54" tvg-name="CHANNEL S" tvg-logo="https://i.ibb.co/993kjV2/Picsart-23-06-09-16-17-31-424.png" group-title="BANGLADESHI CHANNELS", CHANNEL S
-
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="TENTV" tvg-logo="https://logowik.com/content/uploads/images/network-ten-old7521.logowik.com.webp" group-title="BANGLADESHI CHANNELS", TEN IP TV
 
 TINF:-1 tvg-id="56" tvg-name="GREEN TV" tvg-logo="https://i.ibb.co/JmqQ6p4/Picsart-23-06-07-11-16-53-534.png" group-title="BANGLADESHI CHANNELS", GREEN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="NAGORIK TV" tvg-logo="https://i.ibb.co/DgY34qb/Nagorik-TV-Logo.png" group-title="BANGLADESHI CHANNELS", NAGORIK TV
 
-#EXTINF:-1 tvg-id="58" tvg-name="GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png" group-title="BANGLADESHI CHANNELS", GLOBAL TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="GLOBAL TV" tvg-logo="https://i.ibb.co/k6VZVSFy/1000123420.png" group-title="BANGLADESHI CHANNELS", GLOBAL TV
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/globaltv.json
 #EXTINF:-1 tvg-id="59" tvg-name="DESH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="BANGLADESHI CHANNELS", DESH TV
-
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="I IPTV" tvg-logo="https://imgpile.com/images/58iPuS.jpg" group-title="BANGLADESHI CHANNELS", I IPTV BD
 
 #EXTINF:-1 tvg-id="61" tvg-name="Time IPTV" tvg-logo="https://i.ibb.co/YFMQWq8t/logo.webp" group-title="BANGLADESHI CHANNELS", Time TV
@@ -206,7 +206,7 @@ http://103.151.61.12/SUN_BANGLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0
 #EXTINF:-1 tvg-id="91" tvg-name="NAZARA TV" tvg-logo="https://i.ibb.co/NnztQ83/Picsart-23-07-06-13-45-43-488.png" group-title="INDIAN CHANNELS", NAZARA TV
 
 #EXTINF:-1 tvg-id="92" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SONY ENTERTAINMENT TELEVISION
-
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sony.json
 #EXTINF:-1 tvg-id="93" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest/scale-to-width-down/250?cb=20221023215435" group-title="INDIAN CHANNELS", SONY ENTERTAINMENT TELEVISION HD
 
 #EXTINF:-1 tvg-id="94" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Zee_TV_2017.svg/revision/latest?cb=20191222192526" group-title="INDIAN CHANNELS", ZEE TV
@@ -275,7 +275,8 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-id="121" tvg-name="BFLIX MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="MOVIES CHANNELS", BFLIX MOVIES
 
 #EXTINF:-1 tvg-id="122" tvg-name="ZEE ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="MOVIES CHANNELS", ZEE ACTION
-http://103.175.73.12:8080/live/270/270_0.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/zeeaction.json
+
 #EXTINF:-1 tvg-id="123" tvg-name="ZEE CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Zee_Cinema_2017.svg/revision/latest?cb=20191222192752" group-title="MOVIES CHANNELS", ZEE CINEMA
 
 #EXTINF:-1 tvg-id="124" tvg-name="ZEE CINEMA HD" tvg-logo="https://i.ibb.co/HDpmh2wH/Zee-Cinema-2025-svg.png" group-title="MOVIES CHANNELS", ZEE CINEMA HD
@@ -361,7 +362,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/disneyjr.js
 #EXTINF:-1 tvg-id="0158" tvg-name="Disney XD" tvg-logo="https://i.ibb.co/3mcVH7yR/2015-Disney-XD-logo-svg-1.png" group-title="KIDS CHANNELS", Disney XD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/disneyxd.json
 #EXTINF:-1 tvg-id="157" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="KIDS CHANNELS", CARTOON NETWORK HD
-
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/cn.json
 #EXTINF:-1 tvg-id="158" tvg-name="" tvg-logo="https://i.ibb.co/zFFBFCS/Picsart-23-06-07-18-33-22-817.png" group-title="KIDS CHANNELS", DISCOVERY KIDS
 
 #EXTINF:-1 tvg-id="159" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest?cb=20220717214037" group-title="KIDS CHANNELS", NICK JR
@@ -380,7 +381,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-id="0159" tvg-name="ZB Cartoon" tvg-logo="https://i.ibb.co/jkZJybSN/1000121890-removebg-preview.png" group-title="KIDS CHANNELS", ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
-
+#EXTINF:-1 tvg-id="0160" tvg-name="kiddo matix" tvg-logo="https://i.ibb.co/jkZJybSN/1000121890-removebg-preview.png" group-title="KIDS CHANNELS", Kiddo Matix
+https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
 
 
 
@@ -391,7 +393,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/musicindia.
 #EXTINF:-1 tvg-id="165" tvg-name="SANGEET BANGLA" tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC CHANNELS", SANGEET BANGLA
 
 #EXTINF:-1 tvg-id="166" tvg-name="9X TASHAN" tvg-logo="https://i.ibb.co/D5gRqdk/Picsart-23-06-07-12-04-36-664.png" group-title="MUSIC CHANNELS", 9X TASHAN
-
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1 tvg-id="167" tvg-name="ZOOM" tvg-logo="https://i.ibb.co/dr16d02/Picsart-23-06-30-23-39-14-937.png" group-title="MUSIC CHANNELS", ZOOM
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="168" tvg-name="HINDI HITS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/579/872/non_2x/music-symbols-logo-and-icons-template-vector.jpg" group-title="MUSIC CHANNELS", HINDI HITS HD
