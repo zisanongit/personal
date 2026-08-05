@@ -4,9 +4,9 @@
 
 
 
-#EXTINF:-1 tvg-id="05" tvg-name="BTV" tvg-logo="http://logo.protv.cc/picons/logos/BTV-NATIONAL .png" group-title="BANGLADESHI CHANNELS", BTV
+#EXTINF:-1 tvg-id="05" tvg-name="BTV" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=1080&q=75" group-title="BANGLADESHI CHANNELS", BTV
 
-#EXTINF:-1 tvg-id="06" tvg-name="BTV HD" tvg-logo="http://logo.protv.cc/picons/logos/BTV-BANGLA.png" group-title="BANGLADESHI CHANNELS", BTV HD
+#EXTINF:-1 tvg-id="06" tvg-name="BTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1280px-Bangladesh_Television_Logo.svg.png" group-title="BANGLADESHI CHANNELS", BTV HD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/btv.json
 #EXTINF:-1 tvg-id="07" tvg-name="BTV WORLD" tvg-logo="https://i.ibb.co/NtQ4fMf/Picsart-23-06-12-22-23-10-612.png" group-title="BANGLADESHI CHANNELS", BTV WORLD
 
@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/ekushey.jso
 
 
 #EXTINF:-1 tvg-id="49" tvg-name="Star News" tvg-logo="https://i.ibb.co/6xkMyD7/mob-logo.png" group-title="BANGLADESHI CHANNELS", Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/starnews.json
 #EXTINF:-1 tvg-id="50" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/NTV_%28Bangladesh%29_logo.svg" group-title="BANGLADESHI CHANNELS", NTV
 
 #EXTINF:-1 tvg-id="51" tvg-name="MATRIBHUMI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Mathrubhumi_News.png/revision/latest?cb=20181211094002" group-title="BANGLADESHI CHANNELS", MATRIBHUMI
