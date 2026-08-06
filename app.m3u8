@@ -78,9 +78,9 @@ https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tra
 #EXTINF:-1 tvg-id="38" tvg-name="CLOSAL TV" tvg-logo="https://colossalai.org/img/logo.svg" group-title="BANGLADESHI CHANNELS", CLOSAL TV
 
 #EXTINF:-1 tvg-id="39" tvg-name="N TV" tvg-logo="https://i.ibb.co/0yjvV7zR/NTV-Bangladesh-logo-svg-1.png" group-title="BANGLADESHI CHANNELS", N TV
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/ntv.json
 #EXTINF:-1 tvg-id="40" tvg-name="MOHONA TV" tvg-logo="https://i.ibb.co/Ln4M5vp/Picsart-23-06-07-11-11-50-301.png" group-title="BANGLADESHI CHANNELS", MOHONA TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/mohona.json
 #EXTINF:-1 tvg-id="41" tvg-name="NEXUS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="BANGLADESHI CHANNELS", NEXUS TV HD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/nexus.json
 #EXTINF:-1 tvg-id="42" tvg-name="GLOBAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Global_Television_Bangladesh_Logo.png" group-title="BANGLADESHI CHANNELS", GLOBAL TV
@@ -174,9 +174,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sselect2.js
 #EXTINF:-1 tvg-id="082" tvg-name="Tencricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png" group-title="SPORTS CHANNELS", Ten Cricket HD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/tencricket.json
 #EXTINF:-1 tvg-id="083" tvg-name="Asports" tvg-logo="https://i.ibb.co/spD9pH76/A-Sports-Logo-final.png" group-title="SPORTS CHANNELS", Asports HD
-https://playztv-apps.pages.dev/asports/index.m3u8
-
-
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/asports.json
 
 
 
