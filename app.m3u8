@@ -119,7 +119,7 @@ http://103.151.61.12/Nagorik_TV/video.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="GLOBAL TV" tvg-logo="https://i.ibb.co/k6VZVSFy/1000123420.png" group-title="BANGLADESHI CHANNELS", GLOBAL TV
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/globaltv.json
 #EXTINF:-1 tvg-id="59" tvg-name="DESH TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg" group-title="BANGLADESHI CHANNELS", DESH TV
-https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/deshtv.json
 #EXTINF:-1 tvg-id="60" tvg-name="I IPTV" tvg-logo="https://imgpile.com/images/58iPuS.jpg" group-title="BANGLADESHI CHANNELS", I IPTV BD
 
 #EXTINF:-1 tvg-id="61" tvg-name="Time IPTV" tvg-logo="https://i.ibb.co/YFMQWq8t/logo.webp" group-title="BANGLADESHI CHANNELS", Time TV
@@ -173,7 +173,8 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sselect2.js
 
 #EXTINF:-1 tvg-id="082" tvg-name="Tencricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ten_Cricket.png" group-title="SPORTS CHANNELS", Ten Cricket HD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/tencricket.json
-
+#EXTINF:-1 tvg-id="083" tvg-name="Asports" tvg-logo="https://i.ibb.co/spD9pH76/A-Sports-Logo-final.png" group-title="SPORTS CHANNELS", Asports HD
+https://playztv-apps.pages.dev/asports/index.m3u8
 
 
 
