@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/somoy.json
 #EXTINF:-1 tvg-id="009" tvg-name="Channel One" tvg-logo="https://i.ibb.co/jk13HW6j/svg.png" group-title="BANGLADESHI CHANNELS", Channel One
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/channel1.json
 #EXTINF:-1 tvg-id="09" tvg-name="CHANNEL 24" tvg-logo="https://i.ibb.co/cvp9cwR/Picsart-23-06-07-11-34-54-734.png" group-title="BANGLADESHI CHANNELS", CHANNEL 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/channel24.json
 #EXTINF:-1 tvg-id="10" tvg-name="NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/95/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%A8%E0%A7%AA_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%29_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="BANGLADESHI CHANNELS", NEWS 24
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/news24.json
 #EXTINF:-1 tvg-id="11" tvg-name="ATN BANGLA" tvg-logo="https://i.ibb.co/D7sMcgj/Picsart-23-06-07-11-27-15-922.png" group-title="BANGLADESHI CHANNELS", ATN BANGLA
@@ -382,7 +382,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 #EXTINF:-1 tvg-id="0159" tvg-name="ZB Cartoon" tvg-logo="https://i.ibb.co/jkZJybSN/1000121890-removebg-preview.png" group-title="KIDS CHANNELS", ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-id="0160" tvg-name="kiddo matix" tvg-logo="https://i.ibb.co/jkZJybSN/1000121890-removebg-preview.png" group-title="KIDS CHANNELS", Kiddo Matix
+#EXTINF:-1 tvg-id="0160" tvg-name="kiddo matix" tvg-logo="https://i.ibb.co/m5R2JGWk/1000123422-removebg-preview.png" group-title="KIDS CHANNELS", Kiddo Matix
 https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-le0kohm4qt3mk/OTM/OTM_KiddoMatix-SCTE_SAMSUNG/playlist.m3u8
 
 
