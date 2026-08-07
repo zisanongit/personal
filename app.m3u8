@@ -142,9 +142,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="66" tvg-name="T SPORTS HD" tvg-logo="https://i.ibb.co/2v2G8R2/Picsart-23-06-14-13-38-02-379.png" group-title="SPORTS CHANNELS", T SPORTS HD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/tsports.json
 #EXTINF:-1 tvg-id="67" tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/3SBkgWD/Picsart-23-06-19-21-41-04-729.png" group-title="SPORTS CHANNELS", GAZI TV HD
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/gtv.json
 #EXTINF:-1 tvg-id="68" tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS CHANNELS", PTV SPORTS
-
+https://aboxbdix.ryvox-tb-8ae.workers.dev/live/ptv.m3u8?token=15a5a42ba2e7dbfb89ee9c4b4ad69632&time=1786075581&link_index=0
 #EXTINF:-1 tvg-id="69" tvg-name="TNT SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/TNT_Sports_Division_Logo.png" group-title="SPORTS CHANNELS", TNT SPORTS
 
 #EXTINF:-1 tvg-id="70" tvg-name="WILLOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Willow_Cricket.PNG" group-title="SPORTS CHANNELS", WILLOW HD
@@ -214,7 +214,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sony.json
 #EXTINF:-1 tvg-id="95" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Zee_TV_HD_2017.svg/revision/latest/scale-to-width-down/250?cb=20210514173308" group-title="INDIAN CHANNELS", ZEE TV HD
 
 #EXTINF:-1 tvg-id="96" tvg-name="SONY SAB" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB
-
+https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="SONY SAB HD" tvg-logo="https://i.ibb.co/YyHBXtv/Picsart-23-06-07-12-58-55-358.png" group-title="INDIAN CHANNELS", SONY SAB HD
 
 #EXTINF:-1 tvg-id="98" tvg-name="SONY PAL" tvg-logo="https://i.ibb.co/xzN3Yb2/Picsart-23-06-07-12-30-14-157.png" group-title="INDIAN CHANNELS", SONY PAL
@@ -332,7 +332,7 @@ https://mntv.livebox.co.in/mntvhls/live.m3u8
 
 
 #EXTINF:-1 tvg-id="147" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="KIDS CHANNELS", DURONTO TV
-
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="148" tvg-name="Rongeen TV" tvg-logo="https://i.ibb.co/qMYwcmxf/Rongeen-TV-logo-with-slogan-2019.webp" group-title="KIDS CHANNELS", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
