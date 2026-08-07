@@ -68,7 +68,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/asiantv.jso
 #EXTINF:-1 tvg-id="33" tvg-name="DEEPTO TV" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png" group-title="BANGLADESHI CHANNELS", DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="SA TV" tvg-logo="https://i.ibb.co/jhPSkLR/Picsart-23-06-07-10-30-19-289.png" group-title="BANGLADESHI CHANNELS", SA TV
-https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sa.json
+https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/satv.json
 #EXTINF:-1 tvg-id="35" tvg-name="RAJDHANI TV" tvg-logo="https://rajdhanitv.online/assets/images/logo/1757970614logo%20footer.png" group-title="BANGLADESHI CHANNELS", RAJDHANI TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="EKHON TV" tvg-logo="https://ekhon.tv/logo.png" group-title="BANGLADESHI CHANNELS", EKHON TV
@@ -157,7 +157,7 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/ss2.json
 
 #EXTINF:-1 tvg-id="74" tvg-name="STAR SPORTS Select 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1 
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sselect1.json
-#EXTINF:-1 tvg-id="75" tvg-name="STAR SPORTS Select 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 1
+#EXTINF:-1 tvg-id="75" tvg-name="STAR SPORTS Select 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Star_Sports_Network.png" group-title="SPORTS CHANNELS", STAR SPORTS SELECT 2
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/sselect2.json
 #EXTINF:-1 tvg-id="76" tvg-name="" tvg-logo="http://i.ibb.co/nwLphg7/Picsart-23-06-07-12-47-37-348.png" group-title="SPORTS CHANNELS", SONY TEN 1 HD
 
