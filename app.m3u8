@@ -19,45 +19,45 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/channel1.js
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/channel24.json
 #EXTINF:-1 tvg-id="10" tvg-name="NEWS 24" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/9/95/%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%A8%E0%A7%AA_%28%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%29_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="BANGLADESHI CHANNELS", NEWS 24
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/news24.json
-#EXTINF:-1 tvg-id="11" tvg-name="ATN BANGLA" tvg-logo="https://i.ibb.co/D7sMcgj/Picsart-23-06-07-11-27-15-922.png" group-title="BANGLADESHI CHANNELS", ATN BANGLA
+#EXTINF:-1 tvg-id="11" tvg-name="ATN BANGLA" tvg-logo="https://i.ibb.co/C3Y7YqFN/ATN-Bangla-Logo-without-slogan-svg.png" group-title="BANGLADESHI CHANNELS", ATN BANGLA
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/atnbangla.json
-#EXTINF:-1 tvg-id="12" tvg-name="ATN NEWS" tvg-logo="https://i.ibb.co/wRr7tXc/Picsart-23-06-07-11-32-09-482.png" group-title="BANGLADESHI CHANNELS", ATN NEWS
+#EXTINF:-1 tvg-id="12" tvg-name="ATN NEWS" tvg-logo="https://i.ibb.co/RpPt7c8R/ATN-News-Logo-without-slogan-svg.png" group-title="BANGLADESHI CHANNELS", ATN NEWS
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/atnnews.json
 #EXTINF:-1 tvg-id="13" tvg-name="BANGLAVISION" tvg-logo="https://i.ibb.co/rKWB5ywZ/Banglavision-svg.png" group-title="BANGLADESHI CHANNELS", BANGLAVISION
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/banglavision.json
 #EXTINF:-1 tvg-id="14" tvg-name="CHANNEL I" tvg-logo="https://i.ibb.co/q3fqX7x8/Channeli-BD.webp" group-title="BANGLADESHI CHANNELS",  CHANNEL I
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/channeli.json
-#EXTINF:-1 tvg-id="15" tvg-name="BOISHAKHI TV" tvg-logo="https://i.ibb.co/w457MWk/Picsart-23-06-07-11-22-28-998.png" group-title="BANGLADESHI CHANNELS", BOISHAKHI TV
+#EXTINF:-1 tvg-id="15" tvg-name="BOISHAKHI TV" tvg-logo="https://i.ibb.co/hJZfDpz3/Boishakhi-TV-logo-svg-1.png" group-title="BANGLADESHI CHANNELS", BOISHAKHI TV
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/boishakhi.json
-#EXTINF:-1 tvg-id="16" tvg-name="DBC NEWS" tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png" group-title="BANGLADESHI CHANNELS", DBC NEWS
+#EXTINF:-1 tvg-id="16" tvg-name="DBC NEWS" tvg-logo="https://i.ibb.co/4g8zSV6J/svg.png" group-title="BANGLADESHI CHANNELS", DBC NEWS
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/dbc.json
-#EXTINF:-1 tvg-id="17" tvg-name="GREEN TV" tvg-logo="https://i.ibb.co/JmqQ6p4/Picsart-23-06-07-11-16-53-534.png" group-title="BANGLADESHI CHANNELS", GREEN TV
+#EXTINF:-1 tvg-id="17" tvg-name="GREEN TV" tvg-logo="" group-title="BANGLADESHI CHANNELS", GREEN TV
 
 #EXTINF:-1 tvg-id="18" tvg-name="Maasranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BANGLADESHI CHANNELS", MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="EKATTOR TV" tvg-logo="https://i.ibb.co/gMR5Qpvw/Ekattor-TV-logo-svg-1.png" group-title="BANGLADESHI CHANNELS", EKATTOR TV
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/ekattor.json
-#EXTINF:-1 tvg-id="20" tvg-name="INDEPENDENT" tvg-logo="https://i.ibb.co/qgQHWnQ/Picsart-23-06-07-11-15-11-409.png" group-title="BANGLADESHI CHANNELS", INDEPENDENT
+#EXTINF:-1 tvg-id="20" tvg-name="INDEPENDENT" tvg-logo="https://i.ibb.co/93WT9xm6/Independent-Television-Logo-svg.png" group-title="BANGLADESHI CHANNELS", INDEPENDENT
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-id="21" tvg-name="JAMUNA TV" tvg-logo="https://i.ibb.co/7KyTYrM/Picsart-23-06-07-11-13-27-854.png" group-title="BANGLADESHI CHANNELS", JAMUNA TV
+#EXTINF:-1 tvg-id="21" tvg-name="JAMUNA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/960px-Jamuna_TV_logo.svg.png" group-title="BANGLADESHI CHANNELS", JAMUNA TV
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/jamuna.json
-#EXTINF:-1 tvg-id="22" tvg-name="MOVIE BANGLA" tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png" group-title="BANGLADESHI CHANNELS", MOVIE BANGLA
+#EXTINF:-1 tvg-id="22" tvg-name="MOVIE BANGLA" tvg-logo="https://i.ibb.co/3Y53wdYB/images.png" group-title="BANGLADESHI CHANNELS", MOVIE BANGLA
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/moviebangla.json
 #EXTINF:-1 tvg-id="23" tvg-name="CHANNEL 9 HD" tvg-logo="https://i.ibb.co/mVpx32NM/Channel9-bd-svg-1.png" group-title="BANGLADESHI CHANNELS", CHANNEL 9 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="24" tvg-name="MY TV" tvg-logo="https://i.ibb.co/WfjvRsn/Picsart-23-06-07-11-07-21-738.png" group-title="BANGLADESHI CHANNELS", MY TV
+#EXTINF:-1 tvg-id="24" tvg-name="MY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg/1280px-Logo_of_My_TV_%28Bangladesh%29.svg.png" group-title="BANGLADESHI CHANNELS", MY TV
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/mytv.json
 #EXTINF:-1 tvg-id="25" tvg-name="ATN MUSIC" tvg-logo="http://www.atnmusic.tv/images/logo.png" group-title="BANGLADESHI CHANNELS", ATN MUSIC
 
-#EXTINF:-1 tvg-id="26" tvg-name="BANGLA TV" tvg-logo="https://i.ibb.co/LnTmZLD/Picsart-23-06-07-10-15-30-064.png" group-title="BANGLADESHI CHANNELS", BANGLA TV
+#EXTINF:-1 tvg-id="26" tvg-name="BANGLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bangla_TV_logo.svg/1280px-Bangla_TV_logo.svg.png" group-title="BANGLADESHI CHANNELS", BANGLA TV
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/banglatv.json
 #EXTINF:-1 tvg-id="27" tvg-name="ATN ISLAMIC" tvg-logo="https://i.ibb.co/RNGJngt/Picsart-23-06-07-10-17-03-491.png" group-title="BANGLADESHI CHANNELS", ATN ISLAMIC
 
-#EXTINF:-1 tvg-id="28" tvg-name="ANANDA TV" tvg-logo="https://i.ibb.co/0Xhj6yK/Picsart-23-06-07-10-11-58-213.png" group-title="BANGLADESHI CHANNELS", ANANDA TV
+#EXTINF:-1 tvg-id="28" tvg-name="ANANDA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/1280px-Logo_of_Ananda_TV.svg.png" group-title="BANGLADESHI CHANNELS", ANANDA TV
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/anandatv.json
 #EXTINF:-1 tvg-id="29" tvg-name="JAGONEWS24" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png" group-title="BANGLADESHI CHANNELS", JAGONEWS24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="R TV" tvg-logo="https://i.ibb.co/Brrvpht/Picsart-23-06-07-10-20-10-353.png" group-title="BANGLADESHI CHANNELS", R TV
+#EXTINF:-1 tvg-id="30" tvg-name="R TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1280px-Rtv_bangladesh.svg.png" group-title="BANGLADESHI CHANNELS", R TV
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/rtv.json
 #EXTINF:-1 tvg-id="31" tvg-name="ASIAN TV" tvg-logo="https://i.ibb.co/BBhfYpX/Picsart-23-06-07-10-23-04-121.png" group-title="BANGLADESHI CHANNELS", ASIAN TV
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/asiantv.json
