@@ -349,7 +349,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 http://live.balajibroadband.com:3500/live/1341.m3u8
 #EXTINF:-1 tvg-id="152" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="KIDS CHANNELS", KHUSHBOO BANGLA
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 tvg-id="153" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nickelodeon_2023_logo_%28outline%29.svg" group-title="KIDS CHANNELS", NICKTOONS
+#EXTINF:-1 tvg-id="153" tvg-name="" tvg-logo="https://i.ibb.co/TDGMG6pY/Nicktoons-on-Nickelodeon-Animation-Studio-logo.png" group-title="KIDS CHANNELS", NICKTOONS
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/nickelodeon.json
 #EXTINF:-1 tvg-id="154" tvg-name="SONIC HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Nickelodeon_Sonic_logo.png" group-title="KIDS CHANNELS", SONIC HINDI
 
@@ -361,13 +361,13 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/nickelodeon
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/disneyjr.json
 #EXTINF:-1 tvg-id="0158" tvg-name="Disney XD" tvg-logo="https://i.ibb.co/3mcVH7yR/2015-Disney-XD-logo-svg-1.png" group-title="KIDS CHANNELS", Disney XD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/disneyxd.json
-#EXTINF:-1 tvg-id="157" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="KIDS CHANNELS", CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="157" tvg-name="" tvg-logo="https://i.ibb.co/tw4jHB2W/Cartoon-Network-2010-logo-svg.png" group-title="KIDS CHANNELS", CARTOON NETWORK HD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/cn.json
 #EXTINF:-1 tvg-id="158" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/zFFBFCS/Picsart-23-06-07-18-33-22-817.png" group-title="KIDS CHANNELS", DISCOVERY KIDS
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest?cb=20220717214037" group-title="KIDS CHANNELS", NICK JR
 
-#EXTINF:-1 tvg-id="160" tvg-name="pogo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Pogo_2004.svg/revision/latest?cb=20151205150720" group-title="KIDS CHANNELS", POGO
+#EXTINF:-1 tvg-id="160" tvg-name="pogo" tvg-logo="https://i.ibb.co/bRWgDcDs/POGO-logo.png" group-title="KIDS CHANNELS", POGO
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="161" tvg-name="" tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png" group-title="KIDS CHANNELS", GUBBARE
 
@@ -386,15 +386,15 @@ https://cc-le0kohm4qt3mk.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 
 
-#EXTINF:-1 tvg-id="163" tvg-name="9XM" tvg-logo="https://i.ibb.co/Hr1Pprs/Picsart-23-06-07-12-07-02-565.png" group-title="MUSIC CHANNELS", 9XM
+#EXTINF:-1 tvg-id="163" tvg-name="9XM" tvg-logo="https://i.ibb.co/bygDy1y/9xm-red.png" group-title="MUSIC CHANNELS", 9XM
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/9xm.json
-#EXTINF:-1 tvg-id="164" tvg-name="MUSIC INDIA" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png" group-title="MUSIC CHANNELS", MUSIC INDIA
+#EXTINF:-1 tvg-id="164" tvg-name="MUSIC INDIA" tvg-logo="https://i.ibb.co/JRfTM53Y/Music-India.png" group-title="MUSIC CHANNELS", MUSIC INDIA
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/musicindia.json
 #EXTINF:-1 tvg-id="165" tvg-name="SANGEET BANGLA" tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png" group-title="MUSIC CHANNELS", SANGEET BANGLA
 
 #EXTINF:-1 tvg-id="166" tvg-name="9X TASHAN" tvg-logo="https://i.ibb.co/D5gRqdk/Picsart-23-06-07-12-04-36-664.png" group-title="MUSIC CHANNELS", 9X TASHAN
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-#EXTINF:-1 tvg-id="167" tvg-name="ZOOM" tvg-logo="https://i.ibb.co/dr16d02/Picsart-23-06-30-23-39-14-937.png" group-title="MUSIC CHANNELS", ZOOM
+#EXTINF:-1 tvg-id="167" tvg-name="ZOOM" tvg-logo="https://i.ibb.co/C3QsrJ7F/Zoom-2018.png" group-title="MUSIC CHANNELS", ZOOM
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="168" tvg-name="HINDI HITS HD" tvg-logo="https://static.vecteezy.com/system/resources/previews/000/579/872/non_2x/music-symbols-logo-and-icons-template-vector.jpg" group-title="MUSIC CHANNELS", HINDI HITS HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -402,7 +402,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8?hdnts=st%3D1783658363~exp%3D1783679963~acl%3D%21%2A%2Ffta%2Fkappatv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_166_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_172.212.163.17_yuppfast_2_channel_166_-1~hmac%3Df840bc76e2aa5e0e762a83c8d025ae7c64b4b2e16ff94189478f323c1694e880
 #EXTINF:-1 tvg-id="170" tvg-name="MASTIII" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png" group-title="MUSIC CHANNELS", AB MASTIII
 
-#EXTINF:-1 tvg-id="171" tvg-name="JOO MUSIC" tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC CHANNELS", JOO MUSIC
+#EXTINF:-1 tvg-id="171" tvg-name="JOO MUSIC" tvg-logo="https://www.joomusic.info/assets/images/logo.png" group-title="MUSIC CHANNELS", JOO MUSIC
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="172" tvg-name="SHOW BOX" tvg-logo="https://i.ibb.co/tb6nX5k/Picsart-23-06-28-01-36-22-182.png" group-title="MUSIC CHANNELS", SHOW BOX
 
@@ -426,14 +426,14 @@ https://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="176" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://i.ibb.co/3kQ27NW/Picsart-23-06-07-11-43-44-862.png" group-title="INFOTAINMENT CHANNELS", NATIONAL GEOGRAPHIC
 http://40.160.24.53/NAT_GEO/index.m3u8
-#EXTINF:-1 tvg-id="177" tvg-name="Discovery" tvg-logo="https://i.ibb.co/55zvH8Z/Picsart-23-06-09-19-57-34-590.png" group-title="INFOTAINMENT CHANNELS", DISCOVERY HD (BANGLA)
+#EXTINF:-1 tvg-id="177" tvg-name="Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1280px-Discovery_Channel_-_Logo_2019.svg.png" group-title="INFOTAINMENT CHANNELS", DISCOVERY HD (BANGLA)
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/discovery.json
-#EXTINF:-1 tvg-id="178" tvg-name="" tvg-logo="http://i.ibb.co/j31HwYM/Picsart-23-06-28-20-15-00-522.png" group-title="INFOTAINMENT CHANNELS",  ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="178" tvg-name="" tvg-logo="https://i.ibb.co/mrfC7S72/2018-Animal-Planet-logo-svg.webp" group-title="INFOTAINMENT CHANNELS", ANIMAL PLANET HD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/animalplanet.json
 
 #EXTINF:-1 tvg-id="179" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/3cpFQ62/Picsart-23-06-07-12-29-50-426.png" group-title="INFOTAINMENT CHANNELS", BBC EARTH HD
 
-#EXTINF:-1 tvg-id="180" tvg-name="TRAVEL XP" tvg-logo="https://i.ibb.co/kqbnDVX/Picsart-23-07-01-22-11-33-076.png" group-title="INFOTAINMENT CHANNELS", TRAVELXP
+#EXTINF:-1 tvg-id="180" tvg-name="TRAVEL XP" tvg-logo="https://i.ibb.co/q3K0BfmN/Travelxp-logo-svg.png" group-title="INFOTAINMENT CHANNELS", TRAVELXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg" group-title="INFOTAINMENT CHANNELS",  CGTN DOCUMENTARY
 
@@ -559,6 +559,19 @@ http://172.20.21.2/ftpdata/bangla_movie/buker%20moddhe%20agun.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="THE JENGABURU CURSE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/JengaBuru-Poster.jpg" group-title="Series", THE JENGABURU CURSE
 http://172.20.21.2/ftpdata/hindi_movies/the%20jengaburu%20curse%20s01.mkv
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
