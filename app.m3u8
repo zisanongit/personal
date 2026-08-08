@@ -356,14 +356,14 @@ https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/nickelodeon
 #EXTINF:-1 tvg-id="155" tvg-name="HUNGAMA HINDI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg" group-title="KIDS CHANNELS", HUNGAMA HINDI
 
 #EXTINF:-1 tvg-id="156" tvg-name="WOW KIDS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/wow-kidz-new-hindi-black.png" group-title="KIDS CHANNELS", WOW KIDS
-
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidzhindi.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="0157" tvg-name="Disney JR" tvg-logo="https://i.ibb.co/rf5VSnXn/Disney-Jr-2024-logo.png" group-title="KIDS CHANNELS", Disney JR
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/disneyjr.json
 #EXTINF:-1 tvg-id="0158" tvg-name="Disney XD" tvg-logo="https://i.ibb.co/3mcVH7yR/2015-Disney-XD-logo-svg-1.png" group-title="KIDS CHANNELS", Disney XD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/disneyxd.json
 #EXTINF:-1 tvg-id="157" tvg-name="" tvg-logo="https://i.ibb.co/tw4jHB2W/Cartoon-Network-2010-logo-svg.png" group-title="KIDS CHANNELS", CARTOON NETWORK HD
 https://raw.githubusercontent.com/zisanongit/channel/refs/heads/main/cn.json
-#EXTINF:-1 tvg-id="158" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/zFFBFCS/Picsart-23-06-07-18-33-22-817.png" group-title="KIDS CHANNELS", DISCOVERY KIDS
+#EXTINF:-1 tvg-id="158" tvg-name="Discovery Kids" tvg-logo="https://i.ibb.co/JwK57gJj/Discovery-kids-latin-america.png" group-title="KIDS CHANNELS", DISCOVERY KIDS
 https://stream.ottplus.live/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-id="159" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest?cb=20220717214037" group-title="KIDS CHANNELS", NICK JR
 
